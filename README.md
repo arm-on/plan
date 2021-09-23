@@ -46,3 +46,7 @@
 
 ## Sarbazi
 - I need two Q1 papers
+
+## Work Skills
+- Django
+- Git
