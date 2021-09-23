@@ -3,7 +3,10 @@
 - High-Dimensional Statistics: a non-asymptotic viewpoint (Martin J. Wainwright)
     - Status: Chap. 1 & 2 for this month
     - Chapters 1,2,4,5,6,7 for the whole semester
-
+- Projects
+    - Nokhbegan
+    - Mohaymen
+    - Shahrdari
 ## Dr. Rabiee (Statistical Machine Learning)
 - Stochastic Process Definition
 - Gaussian Process
@@ -41,4 +44,5 @@
 - Turkish
     - Bamboo Channel [Link](https://www.youtube.com/watch?v=EYpkg57QD6M&list=PLfvO0lX1t_WxEgPhAi7pUHvvXC_QHKLu3)
 
-
+## Sarbazi
+- I need two Q1 papers
