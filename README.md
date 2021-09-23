@@ -8,6 +8,8 @@
 - Stochastic Process Definition
 - Gaussian Process
 - Poisson Process
+- Chinese Restaurant Process
+- Indian Buffet Process
 - Dirichlet Process (**)
 - Past Years' Questions
 
