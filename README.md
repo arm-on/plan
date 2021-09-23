@@ -14,4 +14,13 @@
 ## Dr. Jamzad (Digital Image Processing)
 - Making an **Efficient** Schedule
 
-
+## Research
+- Courses
+    - Probability and Statistics for Engineering
+    - Math 1 & 2
+    - Convex Optimization
+    - Linear Algebra
+    - Machine Learning Theory
+    - Information Theory
+    - Stochastic Processes
+    - Real Analysis 
