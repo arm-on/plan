@@ -1,4 +1,4 @@
-# My Tasks
+# Long-term Tasks
 ## Dr. Motahari
 - High-Dimensional Statistics: a non-asymptotic viewpoint (Martin J. Wainwright)
     - Status: Chap. 1 & 2 for this month
