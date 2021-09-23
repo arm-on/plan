@@ -24,3 +24,11 @@
     - Information Theory
     - Stochastic Processes
     - Real Analysis 
+
+## Languages
+- French
+    - Speekoo (20 Levels)
+- German
+    - Speekoo (20 Levels)
+- Turkish
+
