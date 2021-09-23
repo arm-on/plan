@@ -50,3 +50,7 @@
 ## Work Skills
 - Django
 - Git
+
+## Youtube
+- AINT
+- AINT Persian
