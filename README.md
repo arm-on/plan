@@ -32,7 +32,9 @@
 ## Languages
 - French
     - Speekoo (20 Levels)
+    - Bamboo Channel [Link](https://www.youtube.com/watch?v=0s-mh_rLe1I&list=PLfvO0lX1t_Wylq1vrKpHdMXVhRtFkv54G) 
 - German
     - Speekoo (20 Levels)
+    - Bamboo Channel [Link](https://www.youtube.com/watch?v=2w7JiKuNrQM&list=PLfvO0lX1t_WxJNjeKU1pj-dW4TDEZd_Lg)
 - Turkish
 
