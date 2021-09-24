@@ -10,3 +10,5 @@
 - Indian Buffet Process
 - Chinese Restaurant Process
 - Past Years' Questions
+
+[Rohban Videos for Stochastic Processes](https://www.aparat.com/playlist/1007391)
