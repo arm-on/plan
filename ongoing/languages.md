@@ -13,3 +13,4 @@
 |----------|:-------------:|------:|
 | French |  14 | End of Mehr |
 | German | 13 | End of Mehr |
+| Turkish | on Hold & for Fun | End of French & German (Speekoo) |
