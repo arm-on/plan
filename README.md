@@ -21,7 +21,7 @@
 
 ## Research
 - Courses
-    - Probability and Statistics for Engineering
+    - Probability and Statistics for Engineering :hammer:
     - Math 1 & 2
     - Convex Optimization
     - Linear Algebra
