@@ -6,3 +6,5 @@ Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 
+Ongoing:
+- [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
