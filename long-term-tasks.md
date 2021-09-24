@@ -8,17 +8,10 @@
     - Nokhbegan
     - Mohaymen
     - Shahrdari
-## Dr. Rabiee (Statistical Machine Learning)
-- Stochastic Process Definition
-- Gaussian Process
-- Poisson Process
-- Chinese Restaurant Process
-- Indian Buffet Process
-- Dirichlet Process (**)
-- Past Years' Questions
 
-## Dr. Jamzad (Digital Image Processing)
-- Making an **Efficient** Schedule
+## Azmoon Jame
+- Dr. Rabiee (Statistical Machine Learning)
+- Dr. Jamzad (Digital Image Processing)
 
 ## Research
 - Courses

@@ -9,3 +9,4 @@
 - Dirichlet Process
 - Indian Buffet Process
 - Chinese Restaurant Process
+- Past Years' Questions
