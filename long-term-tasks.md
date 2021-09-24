@@ -9,10 +9,6 @@
     - Mohaymen
     - Shahrdari
 
-## Azmoon Jame
-- Dr. Rabiee (Statistical Machine Learning)
-- Dr. Jamzad (Digital Image Processing)
-
 ## Research
 - Courses
     - Probability and Statistics for Engineering :hammer:
