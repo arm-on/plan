@@ -54,5 +54,5 @@
 - Linux
 
 ## Youtube
-- AINT
-- AINT Persian
+- AINT :hammer:
+- AINT Persian :hammer:
