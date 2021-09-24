@@ -6,6 +6,6 @@
     - Basic Definitions (Random Experiment, Sample Space, Event, Probability Function) :white_check_mark:
     - I don't remember :white_check_mark:
     - Probability of Intersection, Bayes' Theorem :white_check_mark:
-    - Law of Total Probability
+    - Law of Total Probability, Independency of Events
 ## AINT (Persian)
 - Git :white_check_mark:
