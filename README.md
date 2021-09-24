@@ -49,8 +49,9 @@
 - I need two Q1 papers
 
 ## Work Skills
-- Django
-- Git
+- Django :hammer:
+- Git :white_check_mark:
+- Linux
 
 ## Youtube
 - AINT
