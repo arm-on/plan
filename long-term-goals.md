@@ -5,7 +5,7 @@
 - Speaking English, French, German, and Turkish :hammer:
 - Developing Websites using Django :hammer:
 - Becoming a Youtuber :hammer:
-- Becoming a Kaggle Master
+- Becoming a Kaggle Master :beer:
 - Writing two Q1 Papers
 - Learning to Work with Linux
 - Learning to Work with Git & Github :white_check_mark:
