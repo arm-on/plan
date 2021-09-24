@@ -1,4 +1,4 @@
-[Go Back](../README.md)
+[Go Back](../plan/README.md)
 # Long-term Goals
 
 - Getting my PhD from Sharif
