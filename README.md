@@ -10,3 +10,4 @@ Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
 - [Digital Image Processing](ongoing/digital-image-processing.md)
 - [Languages](ongoing/languages.md)
+- [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
