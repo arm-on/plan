@@ -1,5 +1,6 @@
 # Long-term Goals
 
+- Getting my PhD from Sharif
 - Speaking English, French, German, and Turkish
 - Developing Websites using Django
 - Becoming a Youtuber
