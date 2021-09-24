@@ -28,5 +28,5 @@ Deadline: Azar 25th
 - Ch 11
 
 ## Probability and Statistics
-- Sharifi-Zarchi (Status: on Session 4)
+- Dr. Sharifi-Zarchi (Status: on Session 4)
 
