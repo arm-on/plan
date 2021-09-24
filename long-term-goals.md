@@ -1,12 +1,12 @@
 [Go Back](https://github.com/arm-on/plan/blob/main/README.md)
 # Long-term Goals
 
-- Getting my PhD from Sharif :hammer:
+- Getting my PhD from Sharif University of Technology :hammer:
 - Speaking English, French, German, and Turkish :hammer:
 - Developing Websites using Django :hammer:
 - Becoming a Youtuber :hammer:
 - Becoming a Kaggle Master :beer:
-- Writing two Q1 Papers
+- Publishing two Q1 Papers
 - Learning to Work with Linux
 - Learning to Work with Git & Github :white_check_mark:
 - Developing My Theory Skills including
