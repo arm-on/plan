@@ -9,8 +9,7 @@
 - Turkish
     - Loecsen App (Next: Essentials)
 
-| Tables   |      Are      |  Cool |
+| Language   |      Lessons      |  Until |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| French |  14 | End of Mehr |
+| German | 13 | End of Mehr |
