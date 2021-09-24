@@ -18,5 +18,5 @@
     - Information Theory
     - Real Analysis
     - Linear Algebra
-
+- Becoming a Good Chess Player
 - Becoming a DJ
