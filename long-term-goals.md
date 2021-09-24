@@ -4,7 +4,7 @@
 - Getting my PhD from Sharif
 - Speaking English, French, German, and Turkish
 - Developing Websites using Django
-- Becoming a Youtuber
+- Becoming a Youtuber :hammer:
 - Becoming a Kaggle Master
 - Writing two Q1 Papers
 - Learning to Work with Linux
