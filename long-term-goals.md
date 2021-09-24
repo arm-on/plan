@@ -1,4 +1,4 @@
-[Go Back](../plan/README.md)
+[Go Back](https://github.com/arm-on/plan/blob/main/README.md)
 # Long-term Goals
 
 - Getting my PhD from Sharif
