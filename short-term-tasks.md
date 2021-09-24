@@ -4,8 +4,10 @@
 Deadline: Azar 25th
 
 ## High-Dimensional Statistics
+Description: Chapters 1,2,4,5,6,7 for the whole semester
 - Chapter 1 [Page 1~20]
 - Chapter 2 [Page 21~57]
+
 
 ## Statistical Machine Learning
 - Definition of Stochastic Process
