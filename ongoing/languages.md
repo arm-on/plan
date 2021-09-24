@@ -4,10 +4,13 @@
 
 - French
     - Speekoo App (Next: Lesson 7)
-| test | test2 | test3 |
-|------|-------|-------|
-| test | test2 | test3 |
 - German
     - Speekoo App (Next: Lesson 6)
 - Turkish
     - Loecsen App (Next: Essentials)
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
