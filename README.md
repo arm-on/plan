@@ -12,4 +12,4 @@ Ongoing:
 - [Languages](ongoing/languages.md)
 - [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
 - [Work](ongoing/work.md)
-- [Youtube] (ongoing/youtube.md)
+- [Youtube](ongoing/youtube.md)
