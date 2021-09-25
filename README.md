@@ -16,3 +16,4 @@ Ongoing:
 - [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
 - [Work](ongoing/work.md)
 - [Youtube](ongoing/youtube.md)
+- [Django] (almost done... 1 or 2 videos a week)
