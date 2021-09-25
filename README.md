@@ -2,6 +2,9 @@ Goals:
 - [Long-term](long-term-goals.md)
 - [Short-term](short-term-goals.md)
 
+Rules:
+- [General](rules-and-points.md)
+
 Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
