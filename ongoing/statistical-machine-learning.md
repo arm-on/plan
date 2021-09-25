@@ -1,6 +1,7 @@
 [Go Back](https://github.com/arm-on/plan/blob/main/README.md)
 # Statistical Machine Learning
-- Definition of Stochastic Processes
+- Definition of Stochastic Processes 
+    - [Ref 1](https://github.com/arm-on/plan/blob/main/materials/stochastic-process-definition)
 - Gaussian Process
 - Autocovariance
 - Autocorrelation
