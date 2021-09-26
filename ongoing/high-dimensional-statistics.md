@@ -6,7 +6,10 @@
     - Hypothesis testing (Type 1 & 2 Errors)
 - Chap 2 [P. 21~57]
   
-
+| | |
+|-|-|
+| Chapter | Status |
+| 1 | Read newspaperly till the end of P.11 |
 
 | | |
 |-|-|
