@@ -7,3 +7,4 @@
 |-|-|
 | word | meaning |
 | asymptotic | تقریبی |
+| foray | هجوم |
