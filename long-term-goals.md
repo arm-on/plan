@@ -7,7 +7,7 @@
 - Becoming a Youtuber :hammer:
 - Becoming a Kaggle Master :beer:
 - Publishing two Q1 Papers
-- Learning to Work with Linux
+- Learning to Work with Linux :hammer:
 - Learning to Work with Git & Github :white_check_mark:
 - Developing My Theory Skills including
     - Probability and Statistics for Engineering :hammer:
