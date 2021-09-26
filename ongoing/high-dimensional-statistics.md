@@ -13,3 +13,4 @@
 | word | meaning |
 | asymptotic | تقریبی |
 | foray | هجوم |
+| vignette | a brief description |
