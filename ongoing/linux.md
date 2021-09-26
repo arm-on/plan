@@ -1,6 +1,8 @@
 [Go Back](https://github.com/arm-on/plan/blob/main/README.md)
 
 # Linux Essentials (Next: 12.mp4)
+
+Remember the Goal: Making a list of the most necessary commands to work with linux
 | | |
 |-|-|
 |__command__|__what it does__|
