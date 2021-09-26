@@ -6,7 +6,7 @@
     - [Definition](https://www.youtube.com/watch?v=vU6AiEYED9E)
 - Stationary Process vs. Non-stationary
     - Strict-sense stationary
-        - definition :white_check_mark:
+        - definition :white_check_mark: [Ref 1](https://github.com/arm-on/plan/blob/main/materials/stochastic-process.pdf)
         - example 2 (page 8 of the notebook)
     - Wide-sense stationary
         - definition
