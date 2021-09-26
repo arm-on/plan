@@ -18,3 +18,4 @@
 | mkdir directory_name | make a new directory (folder) |
 | clear | clear the terminal | 
 | touch test.txt | make a new file named "test.txt" in the current directory |
+| history | list all of the commands we executed |
