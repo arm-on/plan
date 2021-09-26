@@ -5,6 +5,9 @@
 - Gaussian Process
     - [Definition](https://www.youtube.com/watch?v=vU6AiEYED9E)
 - Stationary Process vs. Non-stationary
+    - Strict-sense stationary
+        - definition :white_check_mark:
+        - example 2 (page 8 of the notebook)
 - Autocovariance
 - Autocorrelation
 - Point Process
