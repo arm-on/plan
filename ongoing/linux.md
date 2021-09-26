@@ -11,3 +11,4 @@
 | ls -l | list the files in the directory with more information (including their read/write access, owner, volume, date&time of creation) |
 | mkdir directory_name | make a new directory (folder) |
 | ls -la | list ALL of the files in the directory with more information (including their read/write access, owner, volume, date&time of creation) |
+| clear | clear the terminal | 
