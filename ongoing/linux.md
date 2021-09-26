@@ -12,6 +12,7 @@
 | ls -l | list the files in the directory with more information (including their read/write access, owner, volume, date&time of creation) |
 | ls -la | list ALL of the files in the directory with more information (including their read/write access, owner, volume, date&time of creation) |
 | ls /path/to/some/directory/ | list the files in a given directory |
+| ls mypattern* | list the files in the current directory with names starting with "mypattern" |
 |rm -rf /directory/ | remove everything inside a directory ("r" is for recursive deletion, "f" removes read-only files without asking |
 | mkdir directory_name | make a new directory (folder) |
 | clear | clear the terminal | 
