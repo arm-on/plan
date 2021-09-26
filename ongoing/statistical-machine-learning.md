@@ -4,6 +4,7 @@
     - [Ref 1](https://github.com/arm-on/plan/blob/main/materials/stochastic-process-definition.pdf)
 - Gaussian Process
     - [Definition](https://www.youtube.com/watch?v=vU6AiEYED9E)
+- Stationary Process vs. Non-stationary
 - Autocovariance
 - Autocorrelation
 - Point Process
