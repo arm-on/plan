@@ -41,7 +41,7 @@
 ## Work Skills
 - Django :hammer:
 - Git :white_check_mark:
-- Linux
+- Linux :hammer:
 
 ## Youtube
 - AINT :hammer:
