@@ -2,7 +2,7 @@
 
 # Linux Essentials
 |command|what it does|
-|---|---|
+|ls|list the files in the current directory|
 |---|---|
 |---|---|
 |---|---|
