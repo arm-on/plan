@@ -8,6 +8,9 @@
     - Strict-sense stationary
         - definition :white_check_mark:
         - example 2 (page 8 of the notebook)
+    - Wide-sense stationary
+        - definition
+        - examples
 - Autocovariance
 - Autocorrelation
 - Point Process
