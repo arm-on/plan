@@ -3,7 +3,7 @@
 # Linux Essentials
 | | |
 |-|-|
-| command | what it does |
+|__command__|__what it does__|
 | ls | list the files in the current directory |
 |---|---|
 |---|---|
