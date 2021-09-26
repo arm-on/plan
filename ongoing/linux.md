@@ -15,3 +15,4 @@
 |rm -rf /directory/ | remove everything inside a directory ("r" is for recursive deletion, "f" removes read-only files without asking |
 | mkdir directory_name | make a new directory (folder) |
 | clear | clear the terminal | 
+| touch test.txt | make a new file named "test.txt" in the current directory |
