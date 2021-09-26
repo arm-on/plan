@@ -6,6 +6,7 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | | |
 |-|-|
 |__command__|__what it does__|
+| ffmpeg -i whatever.webm -c copy whatever.mp4 | convert webm file to mp4 |
 |cd /the/path/of/a/folder/ | change directory |
 | cd ~ | change directory to the home dir |
 | cd / | change directory to the root dir |
