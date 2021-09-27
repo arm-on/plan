@@ -14,5 +14,5 @@ Description: Chapters 1,2,4,5,6,7 for the whole semester
 - Digital Image Processing
 
 ## Probability and Statistics
-- Dr. Sharifi-Zarchi (Status: on Session 4)
+- Dr. Sharifi-Zarchi (Status: on Session 6)
 
