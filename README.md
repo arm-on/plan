@@ -17,4 +17,5 @@ Ongoing:
 - [Work](ongoing/work.md)
 - [Youtube](ongoing/youtube.md)
 - [Linux](ongoing/linux.md)
+- [Cooking](ongoing/cooking.md)
 - Django (almost done... 1 or 2 videos a week)

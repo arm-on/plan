@@ -18,5 +18,6 @@
     - Information Theory
     - Real Analysis
     - Linear Algebra :beer:
+- Learning to Cook :beer:
 - Becoming a Good Chess Player
 - Becoming a DJ
