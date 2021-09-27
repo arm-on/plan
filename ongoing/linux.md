@@ -25,4 +25,5 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | nano test.txt | edit the "test.txt" file in terminal |
 | cat test.txt | print the content of "test.txt" in the terminal |
 | rm test.txt | remove the file "test.txt" |
-| rmdir /mydirectory/ | remove the directory "mydirectory" |
+| rmdir /mydirectory/ | remove the directory "mydirectory" (NOTE: works if it's empty) |
+|
