@@ -17,6 +17,6 @@
     - Machine Learning Theory
     - Information Theory
     - Real Analysis
-    - Linear Algebra
+    - Linear Algebra :beer:
 - Becoming a Good Chess Player
 - Becoming a DJ
