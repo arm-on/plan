@@ -14,7 +14,7 @@
     - Probability and Statistics for Engineering :hammer:
     - Math 1 & 2
     - Convex Optimization
-    - Linear Algebra
+    - Linear Algebra :beer:
     - Machine Learning Theory
     - Information Theory
     - Stochastic Processes
