@@ -23,3 +23,4 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | touch test.txt | make a new file named "test.txt" in the current directory |
 | history | list all of the commands we executed |
 | nano test.txt | edit the "test.txt" file in terminal |
+| cat test.txt | print the content of "test.txt" in the terminal |
