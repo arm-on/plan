@@ -7,7 +7,7 @@
 - Stationary Process vs. Non-stationary
     - Strict-sense stationary
         - definition :white_check_mark: [Ref 1](https://github.com/arm-on/plan/blob/main/materials/stochastic-process.pdf)
-        - example 2 (page 8 of the notebook)
+        - example 2 (page 8 of the notebook) [Math Stack Exchange](https://math.stackexchange.com/questions/4262404/proving-that-xt-ta-where-a-sim-mathrmuniform2-9-is-not-strict-sen)
     - Wide-sense stationary
         - definition
         - examples
