@@ -15,6 +15,8 @@
 - Autocorrelation :white_check_mark:
 - Point Process
     - Definition :white_check_mark: [Ref 1](https://github.com/arm-on/plan/blob/main/materials/point-process.pdf)
+- Counting Process
+- Hawkes Process
 - Poisson Process
 - Dirichlet Process
 - Indian Buffet Process
