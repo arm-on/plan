@@ -44,3 +44,6 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | mv *.txt /path/to/a/directory/ | move all of the files whose name end with ".txt" to another directory |
 | mv a.txt b.txt | rename "a.txt" to "b.txt" |
 | ls --help | documentation of the "ls" command |
+| man echo | manual of the "echo" command |
+| info echo | more information about the "echo" command |
+
