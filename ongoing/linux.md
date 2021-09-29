@@ -31,3 +31,6 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | df -h | see the disk space left for all of the disks |
 | nvtop | see the status of the NVIDIA GPU |
 | htop | see the status of the CPUs and RAM |
+| echo "salam" | print the word "salam" |
+| x=2 | define the variable "x" to be 2 |
+| echo $x | print the content of the variable "x" |
