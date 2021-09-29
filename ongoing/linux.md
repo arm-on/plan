@@ -29,3 +29,5 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | sudo chmod +x myscript.sh | make the script "myscript.sh" executable |
 | du -hs /path/to/a/directory/ | see the volume of a directory |
 | df -h | see the disk space left for all of the disks |
+| nvtop | see the status of the NVIDIA GPU |
+| htop | see the status of the CPUs and RAM |
