@@ -45,5 +45,7 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | mv a.txt b.txt | rename "a.txt" to "b.txt" |
 | ls --help | documentation of the "ls" command |
 | man echo | manual of the "echo" command |
-| info echo | more information about the "echo" command |
+| info echo | more information about the "echo" command (Note: More complete than "man" and "help" commands) |
+| whatis ls | what is "ls"? (a very short answer to this) |
+
 
