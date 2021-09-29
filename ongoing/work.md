@@ -11,6 +11,12 @@ Papers:
 
 - Datasets:
     - English:
+      - [Switchboard](https://paperswithcode.com/dataset/switchboard-1-corpus)
+    - Persian:
+      - [TFARSDAT](https://www.isca-speech.org/archive/pdfs/eurospeech_2003/bijankhan03_eurospeech.pdf)
+
+- All voice datasets for all tasks!
+    - [Github Link](https://github.com/arm-on/voice_datasets)
 
 Challenge:
 - Spoken Language is used. Needs spoken language model!
