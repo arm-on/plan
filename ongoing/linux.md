@@ -41,3 +41,4 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | cp -r * /path/to/a/directory/ | copy everything inside the current directory (including the folders) to another directory |
 | mv test.txt /path/to/a/directory/ | move the file "test.txt" to another directory |
 | mv *.txt /path/to/a/directory/ | move all of the files whose name end with ".txt" to another directory |
+| mv a.txt b.txt | rename "a.txt" to "b.txt" |
