@@ -47,5 +47,6 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | man echo | manual of the "echo" command |
 | info echo | more information about the "echo" command (Note: More complete than "man" and "help" commands) |
 | whatis ls | what is "ls"? (a very short answer to this) |
+| whereis ls | show the directory in which the "ls" library exists |
 
 
