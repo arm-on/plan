@@ -27,3 +27,5 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | rm test.txt | remove the file "test.txt" |
 | rmdir /mydirectory/ | remove the directory "mydirectory" (NOTE: works if it's empty) |
 | sudo chmod +x myscript.sh | make the script "myscript.sh" executable |
+| du -hs /path/to/a/directory/ | see the volume of a directory |
+| df -h | see the disk space left for all of the disks |
