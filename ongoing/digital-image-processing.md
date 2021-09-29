@@ -9,6 +9,8 @@
 |-|-|
 | Term | Meaning |
 | Horizontal cross section | سطح مقطع افقی |
+| Sphere | کره |
+
 
 - Ch 3
 - Ch 4
