@@ -6,10 +6,23 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | | |
 |-|-|
 |__command__|__what it does__|
+|__General__|
+| clear | clear the terminal | 
+| history | list all of the commands we executed |
+| du -hs /path/to/a/directory/ | see the volume of a directory |
+| df -h | see the disk space left for all of the disks |
+| nvtop | see the status of the NVIDIA GPU |
+| htop | see the status of the CPUs and RAM |
+|__HELP__|
+| ls --help | documentation of the "ls" command |
+| man echo | manual of the "echo" command |
+| info echo | more information about the "echo" command (Note: More complete than "man" and "help" commands) |
+| whatis ls | what is "ls"? (a very short answer to this) |
+|__Audio/Video__|
 | ffmpeg -i whatever.webm -c copy whatever.mp4 | convert webm file to mp4 |
+|__Working with Files__|
 |cd /the/path/of/a/folder/ | change directory |
 | cd ~ | change directory to the home dir |
-|__command__|__what it does__|
 | cd / | change directory to the root dir |
 | ls | list the files in the current directory |
 |ls -a | list the files in the current directory (including the hidden files) (-a means all) - the files having . at the beginning of their names are hidden |
@@ -20,19 +33,13 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | ls *mypattern | list the files in the current directory with names ending with "mypattern" |
 |rm -rf /directory/ | remove everything inside a directory ("r" is for recursive deletion, "f" removes read-only files without asking |
 | mkdir directory_name | make a new directory (folder) |
-| clear | clear the terminal | 
 | touch test.txt | make a new file named "test.txt" in the current directory |
-| history | list all of the commands we executed |
 | nano test.txt | edit the "test.txt" file in terminal |
 | cat test.txt | print the content of "test.txt" in the terminal |
 | rm test.txt | remove the file "test.txt" |
 | rm porteqal.mp4 sound.mp3 linux.png | remove the three files "porteqal.mp4", "sound.mp3", and "linux.png" |
 | rmdir /mydirectory/ | remove the directory "mydirectory" (NOTE: works if it's empty) |
 | sudo chmod +x myscript.sh | make the script "myscript.sh" executable |
-| du -hs /path/to/a/directory/ | see the volume of a directory |
-| df -h | see the disk space left for all of the disks |
-| nvtop | see the status of the NVIDIA GPU |
-| htop | see the status of the CPUs and RAM |
 | x=2 | define the variable "x" to be 2 |
 | echo $x | print the content of the variable "x" |
 | echo "salam" | print the word "salam" |
@@ -45,12 +52,9 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | mv test.txt /path/to/a/directory/ | move the file "test.txt" to another directory |
 | mv *.txt /path/to/a/directory/ | move all of the files whose name end with ".txt" to another directory |
 | mv a.txt b.txt | rename "a.txt" to "b.txt" |
-| ls --help | documentation of the "ls" command |
-| man echo | manual of the "echo" command |
-| info echo | more information about the "echo" command (Note: More complete than "man" and "help" commands) |
-| whatis ls | what is "ls"? (a very short answer to this) |
 | whereis ls | show the directory in which the "ls" library exists |
 | less a.txt | read the contents of a text file one page(one screen) at a time. |
+|__Compression__|
 | zip media.zip porteqal.mp4 sound.mp3 linux.png | make a zip file containing the tree files "porteqal.mp4", "sound.mp3", and "linux.png". Name the file "media.zip" |
 | unzip media.zip | decompress the file "media.zip", and move its contents to the current directory |
 | zip linux.zip /path/to/a/directory/ | make a compressed file containing a directory itself (without the files it contains!!!) |
