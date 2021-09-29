@@ -59,4 +59,4 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | unzip media.zip | decompress the file "media.zip", and move its contents to the current directory |
 | zip linux.zip /path/to/a/directory/ | make a compressed file containing a directory itself (without the files it contains!!!) |
 | zip -r tutorial.zip /path/to/a/directory/  | make a compressed file containing a directory and its contents | 
-
+| unzip media.zip /path/to/a/directory/ | decompress the file "media.zip", and move its contents to a desired directory |
