@@ -18,4 +18,5 @@ Ongoing:
 - [Youtube](ongoing/youtube.md)
 - [Linux](ongoing/linux.md)
 - [Cooking](ongoing/cooking.md)
+- [Linear Algebra](ongoing/linear-algebra.md)
 - Django (almost done... 1 or 2 videos a week)
