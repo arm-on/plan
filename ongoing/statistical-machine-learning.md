@@ -14,9 +14,11 @@
 - Autocovariance :white_check_mark:
 - Autocorrelation :white_check_mark:
 - Point Process
+  
       - Definition :white_check_mark: [Ref 1](https://github.com/arm-on/plan/blob/main/materials/point-process.pdf)
       - Temporal Point Process
       - Marked Point Process
+    - 
 - Counting Process
 - Hawkes Process
 - Poisson Process
