@@ -9,6 +9,7 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | ffmpeg -i whatever.webm -c copy whatever.mp4 | convert webm file to mp4 |
 |cd /the/path/of/a/folder/ | change directory |
 | cd ~ | change directory to the home dir |
+|__command__|__what it does__|
 | cd / | change directory to the root dir |
 | ls | list the files in the current directory |
 |ls -a | list the files in the current directory (including the hidden files) (-a means all) - the files having . at the beginning of their names are hidden |
