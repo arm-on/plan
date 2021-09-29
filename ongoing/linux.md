@@ -43,4 +43,4 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | mv test.txt /path/to/a/directory/ | move the file "test.txt" to another directory |
 | mv *.txt /path/to/a/directory/ | move all of the files whose name end with ".txt" to another directory |
 | mv a.txt b.txt | rename "a.txt" to "b.txt" |
-| ls --help | help of the "ls" command |
+| ls --help | documentation of the "ls" command |
