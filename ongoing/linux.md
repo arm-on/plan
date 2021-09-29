@@ -48,5 +48,6 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | info echo | more information about the "echo" command (Note: More complete than "man" and "help" commands) |
 | whatis ls | what is "ls"? (a very short answer to this) |
 | whereis ls | show the directory in which the "ls" library exists |
+| less a.txt | read the contents of a text file one page(one screen) at a time. |
 
 
