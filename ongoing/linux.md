@@ -51,4 +51,5 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | whereis ls | show the directory in which the "ls" library exists |
 | less a.txt | read the contents of a text file one page(one screen) at a time. |
 | zip media.zip porteqal.mp4 sound.mp3 linux.png | make a zip file containing the tree files "porteqal.mp4", "sound.mp3", and "linux.png". Name the file "media.zip" |
+| unzip media.zip | decompress the file "media.zip", and move its contents to the current directory |
 
