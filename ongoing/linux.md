@@ -52,4 +52,6 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | less a.txt | read the contents of a text file one page(one screen) at a time. |
 | zip media.zip porteqal.mp4 sound.mp3 linux.png | make a zip file containing the tree files "porteqal.mp4", "sound.mp3", and "linux.png". Name the file "media.zip" |
 | unzip media.zip | decompress the file "media.zip", and move its contents to the current directory |
+| zip linux.zip /path/to/a/directory/ | make a compressed file containing a directory itself (without the files it contains!!!) |
+| zip -r tutorial.zip /path/to/a/directory/  | make a compressed file containing a directory and its contents | 
 
