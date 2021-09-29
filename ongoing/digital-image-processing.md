@@ -8,8 +8,12 @@
 | | |
 |-|-|
 | Term | Meaning |
-| Horizontal cross section | سطح مقطع افقی |
-| Sphere | کره |
+| horizontal cross section | سطح مقطع افقی |
+| sphere | کره |
+| membrane | غشاء |
+| enclose | محصور کردن |
+| cornea | قرنیه |
+| sclera | لایه بیرونی سفید کره چشم. در جلوی چشم با قرنیه پیوسته است. |
 
 
 - Ch 3
