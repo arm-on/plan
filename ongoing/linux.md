@@ -34,3 +34,4 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | echo "salam" | print the word "salam" |
 | x=2 | define the variable "x" to be 2 |
 | echo $x | print the content of the variable "x" |
+| scp -r speaker* arman@120.233.50.2:~/wavfiles | Copy the folders whose name start with "speaker" from here to the server 120.233.50.2, while logging into that server with the username "arman" |
