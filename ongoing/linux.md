@@ -25,6 +25,7 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | nano test.txt | edit the "test.txt" file in terminal |
 | cat test.txt | print the content of "test.txt" in the terminal |
 | rm test.txt | remove the file "test.txt" |
+| rm porteqal.mp4 sound.mp3 linux.png | remove the three files "porteqal.mp4", "sound.mp3", and "linux.png" |
 | rmdir /mydirectory/ | remove the directory "mydirectory" (NOTE: works if it's empty) |
 | sudo chmod +x myscript.sh | make the script "myscript.sh" executable |
 | du -hs /path/to/a/directory/ | see the volume of a directory |
