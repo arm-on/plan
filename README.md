@@ -9,9 +9,6 @@ Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 
-Temporary: 
-- Renew IEEE Membership with 50% discount (FUTURE50)
-
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
 - [Digital Image Processing](ongoing/digital-image-processing.md)
