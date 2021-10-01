@@ -8,6 +8,8 @@ Rules:
 Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
+- Temporary
+  - Bime Nezam Mohandesi
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
