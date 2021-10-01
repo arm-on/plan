@@ -19,5 +19,5 @@ Ongoing:
 - [Linux](ongoing/linux.md)
 - [Cooking](ongoing/cooking.md)
 - [Linear Algebra](ongoing/linear-algebra.md)
-- Django (almost done... 1 or 2 videos a week)
+- Django (Next: Session 40)
 
