@@ -18,5 +18,9 @@ Papers:
 - All voice datasets for all tasks!
     - [Github Link](https://github.com/arm-on/voice_datasets)
 
-Challenge:
-- Spoken Language is used. Needs spoken language model!
+Code:
+- [Enhancement Model on Huggingface](https://huggingface.co/speechbrain/metricgan-plus-voicebank)
+- [LogMMSE on Github](https://pypi.org/project/logmmse/)
+- [Noise Suppression on Github](https://github.com/chenwj1989/python-speech-enhancement)
+- [Real-time Noise Suppression](https://github.com/breizhn/DTLN)
+- [Mimic-Loss Enhancement](https://huggingface.co/speechbrain/mtl-mimic-voicebank)
