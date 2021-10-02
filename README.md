@@ -21,5 +21,5 @@ Ongoing:
 - [Linux](ongoing/linux.md)
 - [Cooking](ongoing/cooking.md)
 - [Linear Algebra](ongoing/linear-algebra.md)
-- Django (Next: Session 40)
+- Django (Next: Session 41)
 

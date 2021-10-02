@@ -19,6 +19,7 @@
     - Temporal Point Process
     - Marked Point Process
 - Counting Process
+    - Definition :white_check_mark:
 - Hawkes Process
 - Poisson Process
 - Dirichlet Process
