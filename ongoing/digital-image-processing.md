@@ -3,7 +3,7 @@
 # Digital Image Processing
 
 - Ch 1
-- Ch 2 (Next: Section 2.1.2)
+- Ch 2 (Next: Section 2.3.4)
 
 | | |
 |-|-|
@@ -41,6 +41,13 @@
 | periphery | پیرامون، جنب |
 | acuity | دقت |
 | focal length | فاصله کانونی، فاصله بین مرکز عدسی یا آینه خمیده و فوکوس آن. |
+| glare limit | حد تابش خیره‌کننده |
+| diffuser | پخش‌کننده |
+| monochrome | تک‌رنگ |
+| radiance | درخشندگی |
+| luminance | روشنایی |
+| brightness | روشنایی |
+
 
 
 - Ch 3
