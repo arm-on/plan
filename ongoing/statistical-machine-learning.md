@@ -21,11 +21,13 @@
 - Counting Process
     - Definitions :white_check_mark:
     - Examples :white_check_mark:
+    - [Ref 1](https://github.com/arm-on/plan/blob/main/materials/point-proc.pdf)
 - Hawkes Process
 - Poisson Process
 - Dirichlet Process
 - Indian Buffet Process
 - Chinese Restaurant Process
 - Past Years' Questions
+
 
 [Rohban Videos for Stochastic Processes](https://www.aparat.com/playlist/1007391)
