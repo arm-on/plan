@@ -5,7 +5,7 @@
 - French
     - Speekoo App (Next: Lesson 8)
 - German
-    - Speekoo App (Next: Lesson 8)
+    - Speekoo App (Next: Lesson 10)
 - Turkish
     - Loecsen App (Next: Essentials)
 
