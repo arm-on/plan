@@ -19,9 +19,8 @@
     - Temporal Point Process
     - Marked Point Process
 - Counting Process
-    - Definitions :white_check_mark:
+    - Definitions [Ref 1](https://github.com/arm-on/plan/blob/main/materials/point-proc.pdf) :white_check_mark:
     - Examples :white_check_mark:
-    - [Ref 1](https://github.com/arm-on/plan/blob/main/materials/point-proc.pdf)
 - Hawkes Process
 - Poisson Process
 - Dirichlet Process
