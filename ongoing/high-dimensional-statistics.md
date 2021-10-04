@@ -9,7 +9,7 @@
 | | |
 |-|-|
 | Chapter | Status |
-| 1 | Read newspaperly till the end of P.11 |
+| 1 | Reading newspaperly finished |
 
 | | |
 |-|-|
