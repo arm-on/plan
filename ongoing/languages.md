@@ -3,7 +3,7 @@
 # Languages
 
 - French
-    - Speekoo App (Next: Lesson 8)
+    - Speekoo App (Next: Lesson 9)
 - German
     - Speekoo App (Next: Lesson 10)
 - Turkish
