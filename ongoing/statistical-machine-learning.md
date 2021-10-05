@@ -23,6 +23,8 @@
     - Examples :white_check_mark:
 - Hawkes Process
 - Poisson Process
+    - Definition :white_check_mark:
+    - Example
 - Dirichlet Process
 - Indian Buffet Process
 - Chinese Restaurant Process
