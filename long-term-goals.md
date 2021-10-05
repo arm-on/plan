@@ -14,6 +14,8 @@
     - Stochastic Processes
     - Convex Optimization
     - Math 1 & 2
+        - Calculus 1 [Single-Variable Calculus](https://www.youtube.com/watch?v=jbIQW0gkgxo&list=PLE2215608E2574180)
+        - Calculus 2 [Multi-Variable Calculus](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
     - Machine Learning Theory
     - Information Theory
     - Real Analysis
