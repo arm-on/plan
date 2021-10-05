@@ -60,3 +60,11 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | zip linux.zip /path/to/a/directory/ | make a compressed file containing a directory itself (without the files it contains!!!) |
 | zip -r tutorial.zip /path/to/a/directory/  | make a compressed file containing a directory and its contents | 
 | unzip media.zip /path/to/a/directory/ | decompress the file "media.zip", and move its contents to a desired directory |
+| tar -cf myfile.tar porteqal.mp4 sound.mp3 linux.png | "create" a tar "file" (a compressed file with no volume decreasion), given a list of files |
+| tar -xf myfile.tar | decompress (extract) a tar file |
+| tar -vxf myfile.tar | decompress (extract) a tar file while printing out the things inside it |
+| gzip myfile.tar | compress the given "tar" file (which is not volume-efficient) to a .tar.gz compressed file (more compressed than the tar file) |
+| gunzip myfile.tar.gz | decompress the .gz file into the .tar file |
+| bzip2 myfile.tar | compress the given "tar" file into a .tar.bz2 compressed file (more compressed than "tar") |
+| bunzip2 myfile.tar.bz2 | decompress the .bz2 file into the .tar file |
+
