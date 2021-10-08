@@ -9,7 +9,7 @@ Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-  - Bime Nezam Mohandesi
+  - Printing the Vaccine QR Code
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
