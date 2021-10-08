@@ -44,3 +44,14 @@ https://openreview.net/attachment?id=HygOjhEYDH&name=original_pdf
 https://www.arxiv-vanity.com/papers/1806.00221/
 
 # 11
+https://www.researchgate.net/publication/333337693_Fully_Neural_Network_based_Model_for_General_Temporal_Point_Processes
+
+# 12
+http://128.84.4.34/pdf/1806.00221
+
+# 13 
+https://hawkeslib.readthedocs.io/en/latest/tutorial.html
+
+# 14
+http://ml2.inf.ethz.ch/courses/pgmia/material/Lecture12a_valera.pdf
+
