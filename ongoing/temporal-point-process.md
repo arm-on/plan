@@ -1,4 +1,4 @@
-[Go Back](https://github.com/arm-on/plan/blob/main/statistical-machine-learning.md)
+[Go Back](https://github.com/arm-on/plan/blob/main/ongoing/statistical-machine-learning.md)
 
 # 1
 
