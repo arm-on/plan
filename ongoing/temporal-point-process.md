@@ -15,3 +15,32 @@ processes is vital for the proper analysis of point process data.
 
 http://www.stat.columbia.edu/~liam/teaching/neurostat-fall13/uri-eden-point-process-notes.pdf
 
+# 2
+
+https://arxiv.org/pdf/2104.03528.pdf
+
+# 3
+https://core.ac.uk/download/pdf/20880811.pdf
+
+# 4
+https://mathworld.wolfram.com/TemporalPointProcess.html
+
+# 5 
+http://learning.mpi-sws.org/tpp-icml18/seminar-icml18-part1.pdf
+
+# 6
+https://papers.nips.cc/paper/2020/file/00ac8ed3b4327bdd4ebbebcb2ba10a00-Paper.pdf
+
+# 7
+https://kowshikchilamkurthy.medium.com/understanding-point-processes-6e3d2f6c5480
+
+# 8 
+https://shchur.github.io/blog/2020/tpp1-conditional-intensity/
+
+# 9
+https://openreview.net/attachment?id=HygOjhEYDH&name=original_pdf
+
+# 10
+https://www.arxiv-vanity.com/papers/1806.00221/
+
+# 11
