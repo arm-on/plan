@@ -17,7 +17,7 @@
     - Definition 1 :white_check_mark: [Ref 1](https://github.com/arm-on/plan/blob/main/materials/point-process.pdf)
     - Definition 2 [Ref 1](https://hpaulkeeler.com/point-processes/)
     - Temporal Point Process
-    - Marked Point Process
+    - Marked Point Process :white_check_mark:
 - Counting Process
     - Definitions [Ref 1](https://github.com/arm-on/plan/blob/main/materials/point-proc.pdf) :white_check_mark:
     - Examples :white_check_mark:
