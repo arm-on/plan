@@ -3,7 +3,7 @@
 # Digital Image Processing
 
 - Ch 1
-- Ch 2 (Next: Section 2.3.4)
+- Ch 2 (Next: Bicubic Interpolation - Page 66)
 
 | | |
 |-|-|
