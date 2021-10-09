@@ -47,8 +47,11 @@
 | radiance | درخشندگی |
 | luminance | روشنایی |
 | brightness | روشنایی |
+| ridge | لبه، مرز |
 
 
+Page 59: 
+    - Why 1/2W? Since we had 1 line pair in 2W distance, so we would have (1/{2W}) line pairs per unit (1) distance.
 
 - Ch 3
 - Ch 4
