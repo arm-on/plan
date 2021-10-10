@@ -12,7 +12,7 @@
 - Developing My Theory Skills including
     - Probability and Statistics for Engineering :hammer:
     - Stochastic Processes
-    - Convex Optimization
+    - Convex Optimization [Tibshirani](http://www.stat.cmu.edu/~ryantibs/convexopt-F18/)
     - Math 1 & 2
         - Calculus 1 [Single-Variable Calculus](https://www.youtube.com/watch?v=jbIQW0gkgxo&list=PLE2215608E2574180)
         - Calculus 2 [Multi-Variable Calculus](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
