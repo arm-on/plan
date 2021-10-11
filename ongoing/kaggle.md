@@ -4,6 +4,9 @@
 
 ## Hindi-Tamil QA
 
+Deadline: Nov 9, 2021
+<img src="http://gen.sendtric.com/countdown/28vagyjlv6" style="display:block;">
+
 To do:
 - QA in BERT Models
 - What is XLM
@@ -13,3 +16,8 @@ Problem:
 - When running `trainer.train()`, I got an error:
 
 `RuntimeError: The expanded size of the tensor (14991) must match the existing size (514) at non-singleton dimension 1.  Target sizes: [16, 14991].  Tensor sizes: [1, 514]`
+
+Reading:
+
+1. https://yashuseth.blog/2019/06/12/bert-explained-faqs-understand-bert-working/
+
