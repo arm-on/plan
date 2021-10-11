@@ -21,3 +21,6 @@ Reading:
 
 1. https://yashuseth.blog/2019/06/12/bert-explained-faqs-understand-bert-working/
 
+
+MLM Code:
+https://github.com/google-research/bert/blob/0fce551b55caabcfba52c61e18f34b541aef186a/create_pretraining_data.py#L342
