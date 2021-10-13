@@ -4,3 +4,4 @@
 
 - [Kotlet](https://www.youtube.com/watch?v=8iffZhh2wdY)
 - [Koobide](https://www.youtube.com/watch?v=dkREjdNeaC8)
+- [Pasta Alfredo](https://www.youtube.com/watch?v=zaCoDf-zrdk)
