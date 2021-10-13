@@ -67,7 +67,7 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | gunzip myfile.tar.gz | decompress the .gz file into the .tar file |
 | bzip2 myfile.tar | compress the given "tar" file into a .tar.bz2 compressed file (more compressed than "tar") |
 | bunzip2 myfile.tar.bz2 | decompress the .bz2 file into the .tar file |
-|__Compression__|
+|__AWS__|
 | aws cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
 | aws ls s3://[bucket-name]/path/to/a/folder/ -endpoint-url https://[bucket-name].parspack.net | list the contents of a folder |
