@@ -6,3 +6,4 @@
 4. Do NOT finish a task before its deadline! They will give you another task!
 5. Do NOT watch TV series in the morning. Watch one episode in the evening, and don't let yourself be addicted to watching them.
 6. Sometimes, just taking a day off makes things much easier.
+7. Don't sit in front of a monitor the whole day! You'll get tired (specially, your eyes will!)
