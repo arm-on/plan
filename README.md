@@ -9,7 +9,7 @@ Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-  - Azmoon Jame
+  - [Azmoon Jame](azmoon-jame.md)
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
