@@ -1,4 +1,4 @@
-Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.md) [Temporary Note](https://github.com/arm-on/privateplans/blob/main/temp.md)
+Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.md) | [Temporary Note](https://github.com/arm-on/privateplans/blob/main/temp.md) |
 
 Goals:
 - [Long-term](long-term-goals.md)
