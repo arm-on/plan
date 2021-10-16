@@ -1,3 +1,5 @@
+Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.md)
+
 Goals:
 - [Long-term](long-term-goals.md)
 - [Short-term](short-term-goals.md)
