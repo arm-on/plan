@@ -12,6 +12,7 @@ Tasks:
 - [Short-term](short-term-tasks.md)
 - Temporary
   - [Azmoon Jame](azmoon-jame.md)
+  - [Shahid Ahadi (Parsa & Alireza)](https://sina.bmn.ir/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%AB%D8%A8%D8%AA-%D9%86%D8%A7%D9%85)
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
