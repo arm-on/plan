@@ -7,3 +7,4 @@
 5. Do NOT watch TV series in the morning. Watch one episode in the evening, and don't let yourself be addicted to watching them.
 6. Sometimes, just taking a day off makes things much easier.
 7. Don't sit in front of a monitor the whole day! You'll get tired (specially, your eyes will!)
+8. [IMPORTANT]() Sleeping well is the key to success! Sleep at 9 P.M., Wake up at 6 A.M.
