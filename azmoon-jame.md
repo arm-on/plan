@@ -21,4 +21,6 @@ The following documents should be sent to Ms. Lashkarian in an email.
     - Forme Darkhaste Emtehane Jame
 
 # Status
-- Waiting to Speek to Dr. Motahari
+
+- Waiting for Dr. Shiri Ghidary to answer the email, and send me the syllabus of the course
+- Optional: Ask Dr. Ghatee about it
