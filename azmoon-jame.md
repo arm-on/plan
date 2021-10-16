@@ -5,6 +5,7 @@
 - [CE Grad Program](https://github.com/arm-on/plan/blob/main/materials/ce-grad.pdf)
 - [CS Machine Learning](https://github.com/arm-on/plan/blob/main/materials/cs-ml.pdf)
 - [CE Machine Learning](https://github.com/arm-on/plan/blob/main/materials/ce-ml.pdf)
+- [CE Soleymani Course Page](http://ce.sharif.edu/courses/99-00/1/ce717-1/index.php/section/resources/file/resources)
 - [CE Soleymani Syllabus](https://github.com/arm-on/plan/blob/main/materials/ML-Soleymani-Syllabus.pdf)
 
 # The process (According to Ms. Lashkarian):
