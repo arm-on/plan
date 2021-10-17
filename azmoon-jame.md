@@ -22,5 +22,5 @@ The following documents should be sent to Ms. Lashkarian in an email.
 
 # Status
 
-- Waiting for Dr. Shiri Ghidary to answer the email, and send me the syllabus of the course
+- Waiting for Dr. Shiri Ghidary to answer the email, and send me the syllabus of the course [Start of Waiting: 24 Mehr]
 - Optional: Ask Dr. Ghatee about it
