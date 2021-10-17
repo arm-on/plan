@@ -24,3 +24,4 @@ The following documents should be sent to Ms. Lashkarian in an email.
 # Status
 
 - Dr Shiry Replied [25 Mehr, 4:30 PM]
+- I should send a message to Amirhossein, and ask him about the syllabus of Rohban's course.
