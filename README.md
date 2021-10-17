@@ -13,6 +13,7 @@ Tasks:
 - Temporary
   - [Azmoon Jame](azmoon-jame.md) | [Docs (Picture)](https://github.com/arm-on/plan/blob/main/materials/shahid-ahmadi-roshan.zip)
   - Shahid Ahmadi Roshan [Telling Dr. Motahari that I have registered]
+  - Asking Amirhossein about Rohban's ML Syllabus
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
