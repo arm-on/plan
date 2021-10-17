@@ -7,7 +7,7 @@
 - [CE Machine Learning](https://github.com/arm-on/plan/blob/main/materials/ce-ml.pdf)
 - [CE Soleymani Course Page](http://ce.sharif.edu/courses/99-00/1/ce717-1/index.php/section/resources/file/resources)
 - [CE Soleymani Syllabus](https://github.com/arm-on/plan/blob/main/materials/ML-Soleymani-Syllabus.pdf)
-- [CS Shiry Syllabus](https://ce.aut.ac.ir/~shiry/lecture/machine-learning/ml.html#Syllabus)
+- CS Shiry Syllabus [Link](https://ce.aut.ac.ir/~shiry/lecture/machine-learning/ml.html#Syllabus) [PDF](https://github.com/arm-on/plan/blob/main/materials/ML-Shiry-Syllabus.pdf)
 
 # The process (According to Ms. Lashkarian):
 
