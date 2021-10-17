@@ -5,7 +5,7 @@
 - French
     - Speekoo App (Next: Lesson 10)
 - German
-    - Speekoo App (Next: Lesson 12)
+    - Speekoo App (Next: Lesson 13)
 
 | Language   |      Lessons      |  Until |
 |----------|:-------------:|------:|
