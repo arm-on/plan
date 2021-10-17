@@ -21,6 +21,8 @@ The following documents should be sent to Ms. Lashkarian in an email.
     - Madrake Zaban
     - Forme Darkhaste Emtehane Jame
 
+Note: Dr. Beigy said that the confirmation will be done after the form is sent officialy to him. Therefore, I should be reading the course of Dr. Jamzad and be prepared for it.
+
 # Status
 
 - Dr Shiry Replied [25 Mehr, 4:30 PM]
