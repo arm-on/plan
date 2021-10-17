@@ -21,7 +21,7 @@
 - Counting Process
     - Definitions [Ref 1](https://github.com/arm-on/plan/blob/main/materials/point-proc.pdf) :white_check_mark:
     - Examples :white_check_mark:
-- Hawkes Process
+- Hawkes Process :white_check_mark:
 - Poisson Process
     - Definition :white_check_mark:
     - Example
