@@ -28,6 +28,7 @@
 - Dirichlet Process
 - Indian Buffet Process
 - Chinese Restaurant Process
+- Expectation Maximization
 - Past Years' Questions
 
 
