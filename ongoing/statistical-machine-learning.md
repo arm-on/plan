@@ -15,8 +15,8 @@
 - Autocorrelation :white_check_mark:
 - Point Process
     - Definition 1 :white_check_mark: [Ref 1](https://github.com/arm-on/plan/blob/main/materials/point-process.pdf)
-    - Definition 2 [Ref 1](https://hpaulkeeler.com/point-processes/)
-    - Temporal Point Process [Accumulation](https://github.com/arm-on/plan/blob/main/ongoing/temporal-point-process.md)
+    - Definition 2 :white_check_mark: [Ref 1](https://hpaulkeeler.com/point-processes/)
+    - Temporal Point Process :white_check_mark: [Accumulation](https://github.com/arm-on/plan/blob/main/ongoing/temporal-point-process.md)
     - Marked Point Process :white_check_mark:
 - Counting Process
     - Definitions [Ref 1](https://github.com/arm-on/plan/blob/main/materials/point-proc.pdf) :white_check_mark:
