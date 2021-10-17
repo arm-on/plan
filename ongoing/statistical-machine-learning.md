@@ -2,7 +2,7 @@
 # Statistical Machine Learning
 - Definition of Stochastic Processes :white_check_mark:
     - [Ref 1](https://github.com/arm-on/plan/blob/main/materials/stochastic-process-definition.pdf)
-- Gaussian Process
+- Gaussian Process :white_check_mark:
     - [Definition](https://www.youtube.com/watch?v=vU6AiEYED9E)
 - Stationary Process vs. Non-stationary :white_check_mark:
     - Strict-sense stationary :white_check_mark:
