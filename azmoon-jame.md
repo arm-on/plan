@@ -27,5 +27,4 @@ Note: Dr. Beigy said that the confirmation will be done after the form is sent o
 # Status
 
 - Dr Shiry Replied [25 Mehr, 4:30 PM]
-- I should send a message to Amirhossein, and ask him about the syllabus of Rohban's course.
-- Viewing the list of this term's courses [Maybe I should take another course so that if I fail Image Processing, I can bring that course into the exam!]
+- Waiting for Ms. Lashkarian to reply the email
