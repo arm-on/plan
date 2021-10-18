@@ -12,7 +12,6 @@ Tasks:
 - [Short-term](short-term-tasks.md)
 - Temporary
   - [Azmoon Jame](azmoon-jame.md)
-  - Shahid Ahmadi Roshan [Telling Dr. Motahari that I have registered]  | [Docs (Picture)](https://github.com/arm-on/plan/blob/main/materials/shahid-ahmadi-roshan.zip)
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
