@@ -2,7 +2,7 @@ Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.m
 
 Deadlines:
 - Google Drive <img src="http://gen.sendtric.com/countdown/ao22exkpbx" style="display: block; height:50px" />
-- Google Colab <img src="http://gen.sendtric.com/countdown/gh6l1sxxj9" style="display: block;" />
+- Google Colab <img src="http://gen.sendtric.com/countdown/gh6l1sxxj9" style="display: block; height:50px" />
 
 Goals:
 - [Long-term](long-term-goals.md)
