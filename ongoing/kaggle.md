@@ -1,5 +1,7 @@
 [Go Back](https://github.com/arm-on/plan/blob/main/README.md)
 
+To enable the environment of tensorflow, use `conda activate tf_m1`. Then, run `jupyter notebook`.
+
 # Kaggle
 
 ## Hindi-Tamil QA
