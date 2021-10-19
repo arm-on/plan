@@ -2,6 +2,11 @@
 
 # Languages
 
+‌[Busuu Buy Link](https://license-market.ir/product/Busuu)
+
+emails: arman.kaggle@gmail.com, malekzadeh.academic@gmail.com
+
+
 - French
     - Speekoo App (Next: Lesson 10)
 - German
