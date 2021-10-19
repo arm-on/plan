@@ -26,5 +26,4 @@ Note: Dr. Beigy said that the confirmation will be done after the form is sent o
 
 # Status
 
-- Dr Shiry Replied [25 Mehr, 4:30 PM]
-- Waiting for Ms. Lashkarian to reply the email
+- Ms. Lashkarian replied, and requested a pdf containing all the docs [I sent the pdf on Mehr 27, 13:10]
