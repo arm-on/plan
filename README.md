@@ -1,5 +1,9 @@
 Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.md) | [Temporary Note](https://github.com/arm-on/privateplans/blob/main/temp.md) |
 
+Deadlines:
+- Google Drive <img src="http://gen.sendtric.com/countdown/ao22exkpbx" style="display: block;" />
+- Google Colab <img src="http://gen.sendtric.com/countdown/gh6l1sxxj9" style="display: block;" />
+
 Goals:
 - [Long-term](long-term-goals.md)
 - [Short-term](short-term-goals.md)
