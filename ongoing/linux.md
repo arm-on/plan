@@ -71,6 +71,20 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | tar -cvjf media.bz2 sound.mp3 porteqal.mp4 | compress some files directly to a tar bzip file (instead of first compressing as "tar", and then "bzip") |
 | tar -xvzf media.tgz  | Decompress the .tgz file directly into the original files |
 | tar -xvjf media.bz2 | Decompress the .bz2 file directly into the original files |
+|__Search for Information / Information Extraction from Files__|
+| less myfile.txt | displays the content of a file "page by page" with scrolling option |
+| head myfile.txt | Displays the first 10 lines of a file |
+| tail myfile.txt | Displays the last 10 lines of a file |
+| head -n 15 myfile.txt | Displays the first 15 lines of a file |
+| tail -n 15 myfile.txt | Displays the last 15 lines of a file |
+| sudo find / | Search in the whole files and directories recognized by the OS for files, and list them |
+| find Downloads/ -type f | Search for files (not folders) in the "Downloads" folder (and list them!) |
+| sudo find / -name "python" | Search for files and directories named "python", and list them |
+| sudo find / -name "python*" | Search for files and directories whose name starts with "python" |
+| grep arman myfile.txt | Search for the expression "arman" inside the file "myfile.txt", and if it exists, print the token containing it (e.g., print "arman.ir") - Note: If the expression doesn't exist, the output of this command will be empty! |
+| grep arman * | Search for the expression "arman" inside all of the files inside the current directory, and show the results (as a list) |
+| grep "arman malekzadeh" * | Search for the long expression "arman malekzadeh" inside all of the files inside the current directory, and show the results (as a list) |
+|  |  |
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
