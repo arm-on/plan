@@ -84,6 +84,20 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | grep arman myfile.txt | Search for the expression "arman" inside the file "myfile.txt", and if it exists, print the token containing it (e.g., print "arman.ir") - Note: If the expression doesn't exist, the output of this command will be empty! |
 | grep arman * | Search for the expression "arman" inside all of the files inside the current directory, and show the results (as a list) |
 | grep "arman malekzadeh" * | Search for the long expression "arman malekzadeh" inside all of the files inside the current directory, and show the results (as a list) |
+| sort myfile.txt | Display the content of the file "myfile.txt" (with lines sorted alphabetically!) - Note: Each line is considered as a separate string |
+| sort -n myfile.txt  | Display the content of the file "myfile.txt" (with lines sorted based on numbers) - Note: Each line is considered as a separate string |
+| sort -r myfile.txt | Display the content of the file "myfile.txt" sorted in the reverse order |
+| sort -R myfile.txt | Display the content of the file "myfile.txt" sorted randomly! |
+| cut -c3-6 myfile.txt | Display the content of the file "myfile.txt", but only columns 3 to 6 for each line |
+| cut -c3,6 myfile.txt | Display the content of the file "myfile.txt", but only the third and sixth character for each line |
+| cut -c3- myfile.txt | Display the content of the file "myfile.txt", but only the third character and everything after it, for each line |
+| cut -d" " -f4 myfile.txt  | Split the contents of a file using the space character, consider each part as a "field", and display the content of the fourth field - Note: this is useful for reading "csv" files |
+| cut -d" " -f4- myfile.txt  | Split the contents of a file using the space character, consider each part as a "field", and display the content of the fourth field, and every field after it |
+| cut -d" " -f4-6 myfile.txt  | Split the contents of a file using the space character, consider each part as a "field", and display the content of the fourth field up to the sixth field |
+| cut -d" " -f4,6 myfile.txt  | Split the contents of a file using the space character, consider each part as a "field", and display the content of the fourth field and the sixth field |
+| cut -d" " -f3-6 myfile.txt > output.txt | Split the contents of a file using the space character, consider each part as a "field", and display the content of the third field up to the sixth field. Finally, write the output into the file "output.txt"  |
+| cut -d" " -f3-6 myfile.txt >> output.txt | Split the contents of a file using the space character, consider each part as a "field", and display the content of the third field up to the sixth field. Finally, append the output to the content of the file "output.txt"  |
+| wc myfile.txt | Display the number of lines that the file contains, then the number of words (tokens separated by space), and the number of characters |
 |  |  |
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
