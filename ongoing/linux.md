@@ -67,6 +67,10 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | gunzip myfile.tar.gz | decompress the .gz file into the .tar file |
 | bzip2 myfile.tar | compress the given "tar" file into a .tar.bz2 compressed file (more compressed than "tar") |
 | bunzip2 myfile.tar.bz2 | decompress the .bz2 file into the .tar file |
+| tar -cvzf media.tgz sound.mp3 porteqal.mp4 | compress some files directly to a tar gzip file (instead of first compressing as "tar", and then "gzip") - Note: "v" stands for "verbose mode" |
+| tar -cvjf media.bz2 sound.mp3 porteqal.mp4 | compress some files directly to a tar bzip file (instead of first compressing as "tar", and then "bzip") |
+| tar -xvzf media.tgz  | Decompress the .tgz file directly into the original files |
+| tar -xvjf media.bz2 | Decompress the .bz2 file directly into the original files |
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
