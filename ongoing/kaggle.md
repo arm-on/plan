@@ -13,9 +13,8 @@ Deadline: Nov 9, 2021
 <img src="http://gen.sendtric.com/countdown/28vagyjlv6" style="display:block;">
 
 To do:
-- QA in BERT Models
-- What is XLM
-- Is QA using XLM, the same as it with BERT?
+- [QA in BERT Models](https://towardsdatascience.com/how-to-fine-tune-a-q-a-transformer-86f91ec92997)
+- [Useful Link](https://mccormickml.com/2020/03/10/question-answering-with-a-fine-tuned-BERT/)
 
 Problem:
 - When running `trainer.train()`, I got an error:
