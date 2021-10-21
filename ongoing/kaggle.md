@@ -2,6 +2,9 @@
 
 To enable the environment of tensorflow, use `conda activate tf_m1`. Then, run `jupyter notebook`.
 
+[Installing Transformers on M1](https://medium.com/@alfarruggia/from-zero-to-transformers-on-apple-m1-chip-e5d9afa35f5)
+| [Installing Pytorch on M1](https://towardsdatascience.com/yes-you-can-run-pytorch-natively-on-m1-macbooks-and-heres-how-35d2eaa07a83)
+
 # Kaggle
 
 ## Hindi-Tamil QA
