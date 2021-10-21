@@ -98,7 +98,12 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | cut -d" " -f3-6 myfile.txt > output.txt | Split the contents of a file using the space character, consider each part as a "field", and display the content of the third field up to the sixth field. Finally, write the output into the file "output.txt"  |
 | cut -d" " -f3-6 myfile.txt >> output.txt | Split the contents of a file using the space character, consider each part as a "field", and display the content of the third field up to the sixth field. Finally, append the output to the content of the file "output.txt"  |
 | wc myfile.txt | Display the number of lines that the file contains, then the number of words (tokens separated by space), and the number of characters |
-|  |  |
+|__REGEX__|
+| grep ^arman myfile.txt | Search for the lines starting with "arman" inside "myfile.txt", and show the results (as a list) |
+| grep arman$ myfile.txt | Search for the lines ending with "arman" inside "myfile.txt", and show the results (as a list) |
+| grep a.m myfile.txt | Search for the lines starting with "a", having "m" as their third character, (don't care about the second character) inside "myfile.txt", and show the results (as a list) | 
+| grep a..m myfile.txt | Search for the lines starting with "a", having "m" as their fourth character, (don't care about the second and third characters) inside "myfile.txt", and show the results (as a list) | 
+| grep ^....$ myfile.txt | Search for the lines having only 4 characters inside "myfile.txt", and show the results (as a list) | 
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
