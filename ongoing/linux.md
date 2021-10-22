@@ -105,7 +105,14 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | grep a..m myfile.txt | Search for the lines starting with "a", having "m" as their fourth character, (don't care about the second and third characters) inside "myfile.txt", and show the results (as a list) | 
 | grep ^....$ myfile.txt | Search for the lines having only 4 characters inside "myfile.txt", and show the results (as a list) | 
 |__PIPE__|
-| command1 \| command2 | run the first command, and take its output to the second command |
+| command1 \| command2 | run the first command, and take its output to the second command as its input |
+| ls \| grep ^D |/ list the files of the current directory, but only show the results starting with the "D" character |
+| ls \| grep s$ | list the files of the current directory, but only show the results ending with the "s" character   |
+| find . type f \| grep python | find the files in the system named "python" |
+| cut -d" " -f3 myfile.txt \| cut -c2 |display the second character of the third token from each row |
+|__BASH__|
+| ls sh | get the path to the interpreter of the bash language |
+| #!/bin/bash \n test |  |
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
