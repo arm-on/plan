@@ -118,6 +118,7 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | bash ./myscript.sh | run my shell script named "myscript.sh" |
 | bash ./myscript.sh arman | run my shell script named "myscript.sh" taking "arman" as input |
 | #! /etc/bash</br>for i in {1..10}</br>do</br>&nbsp;&nbsp;&nbsp;&nbsp;echo $i</br>done | print the numbers 1 to 10 |
+| #! /etc/bash</br>for (( i=1 ; i <= 50 ; i++ ))</br>do</br>&nbsp;&nbsp;&nbsp;&nbsp; echo "number : $i$"</br>done</br>echo "done" | write the numbers from 1 to 50 with a "number : " string on the left side of them |
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
