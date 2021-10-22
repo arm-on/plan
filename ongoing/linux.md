@@ -115,6 +115,9 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | #!/bin/bash </br> your bash code goes here | how to write a shell script with bash |
 | #! /etc/bash</br> echo "please write your name" </br> if [[ "$1" == "arman" ]]; </br> then </br>&nbsp;&nbsp;&nbsp;&nbsp;echo "yes" </br>else </br>&nbsp;&nbsp;&nbsp;&nbsp; echo "no" </br>fi | a demo bash script using the conditional statement "if" |
 | sudo chmod 777 myscript.sh | Give the full permission to everyone to do everything with the file "myscript.sh" (including the permission to run it) |
+| bash ./myscript.sh | run my shell script named "myscript.sh" |
+| bash ./myscript.sh arman | run my shell script named "myscript.sh" taking "arman" as input |
+| #! /etc/bash</br>for i in [1..10]</br>do</br>&nbsp;&nbsp;&nbsp;&nbsp;echo $i</br>done | print the numbers 1 to 10 |
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
