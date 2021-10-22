@@ -113,6 +113,7 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 |__BASH__|
 | ls sh | get the path to the interpreter of the bash language |
 | #!/bin/bash </br> your bash code goes here | how to write a shell script with bash |
+| #! /etc/bash </br> if [[ "$1" == "arman" ]]; </br> then </br>  echo "yes" </br>else </br> echo "no" | a demo bash script using the conditional statement "if" |
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
