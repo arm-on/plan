@@ -134,7 +134,28 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | free -tb | show the ram (memory), how much (how many bytes) of it is used, how much is free, and the same things for the swap (which is used to accelerate the speed of the system) |
 | free -tm | show the ram (memory), how much (how many megabytes) of it is used, how much is free, and the same things for the swap (which is used to accelerate the speed of the system) |
 |__NETWORKING__|
-| /etc/resolv.conf | the file containing the configure of the DNS </br>It may contain sth like this:</br>`nameserver 127.0.0.25`</br>`options edns0`</br>`search localdomain` |
+| /etc/resolv.conf | the file containing the configure of the DNS </br>It may contain sth like this:</br>`nameserver 127.0.0.25`</br>`options edns0`</br>`search localdomain` </br> To add another DNS (like the DNS server of the google which is 8.8.8.8), append the following line:</br>nameserver 8.8.8.8 |
+| ifconfig | shows some information about the conifiguration of the network (such as the MAC address), the networking cards, ...  (Note: "if" stands for "interface") |
+| ifconfig -a | show the network cards including the disabled ones |
+| sudo ifconfig eth0 192.168.245.120 | change the ip address of the network card "eth0" to 192.168.245.120 |
+| sudo ifconfig eth0 down | disable the network card "eth0" |
+| sudo ifconfig eth0 up | enable the network card "eth0" |
+| dig arman.ir | reveal some information about the website "arman.ir" including the IP addresses it has - Actually, this command sends a request to the nameservers of the website |
+| ping 192.168.200.567 | send requests to the given ip address to see if we can have a connection with the device (pc) having that ip address - Note: in the result of this command, you will see "TTL". If the value of "ttl" is more than 100, the pc has a windows installed on it. Otherwise, the OS is linux. - Note2: You are not required to write an ip address. Instead, you can write a domain, such as `ping arman.ir` - Note3: This command is used to see if the connection between two clients or a client and a server has been established |
+|__USERS__|
+| who | shows the current user, with a little bit of extra info |
+| w | shows which users are logged in, the time of their login, and what they are doing |
+| whoami | shows the current user's name |
+| id | shows the unique id of the current user, the groups he/she belongs to - Note: From 0 to 499, is for system users, and 500 to 6000 is for standard users |
+| id anotheruser | shows the unique id of the given user named "anotheruser", the groups he/she belongs to |
+| cat /etc/passwd | the file `/etc/passwd` contains information about all of the users, including the uid of them and the id the group they belong to, and the home directory (a.k.a profile) (for the standard users) |
+| cat /etc/group | the file `/etc/group` contains information about all of the groups, including the id of each group and the users belonging to each group |
+| sudo cat /etc/shadow | the file `/etc/shadow` contains the hashed passwords for all users |
+| sudo command | execute the command using the permission level of the `root` user |
+| su arman | change the user to `arman` in order to execute commands on his/her behalf (this will ask for the password of the user `arman`) |
+| sudo adduser arman | create a new user named `arman` - Note: this will ask for a password for the new user, and some other info (such as phone number!) |
+| sudo addgroup mynewgroup | create a new group named `mynewgroup` |
+|  |  |
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
