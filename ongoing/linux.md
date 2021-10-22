@@ -112,7 +112,8 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | cut -d" " -f3 myfile.txt \| cut -c2 |display the second character of the third token from each row |
 |__BASH__|
 | ls sh | get the path to the interpreter of the bash language |
-| #!/bin/bash \n test |  |
+| #!/bin/bash </br> your bash code goes here | how to write a shell script with bash |
+
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
