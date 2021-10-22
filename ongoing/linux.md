@@ -155,7 +155,18 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | su arman | change the user to `arman` in order to execute commands on his/her behalf (this will ask for the password of the user `arman`) |
 | sudo adduser arman | create a new user named `arman` - Note: this will ask for a password for the new user, and some other info (such as phone number!) |
 | sudo addgroup mynewgroup | create a new group named `mynewgroup` |
-|  |  |
+| sudo passwd | change the password of the current user |
+| sudo passwd arman | change the password of the user named `arman` |
+| last | shows the last logins in the system |
+| sudo usermod -a -G mygroup arman| Add the user `arman` to the group `mygroup` ("a" stands for "add", "G" for "group") |
+| sudo usermod -a -G root arman | Add the user `arman` to the `root` group |
+| sudo userdel arman | delete the user `arman`, but keep his/her profile - Note: the path `/home/arman/` will remain. |
+| sudo userdel -r arman | delete the user `arman` and his/her profile (files) |
+| sudo groupdel mygroup | delete a group named `mygroup` |
+|__PERMISSIONS__|
+| ls -l | The first character: "d" means directory, and "-" means file</br>The three characters after that: "r" = read, "w" = write, "x" = execute. If instead of any of them, a "-" is written, means that we cannot "read", "write" or "execute" that file. </br> The first three characters correspond to the permissions of the owner of the file</br>The second three characters correspond to the group members of the owner </br>The last three characters correspond to other users (any kind of user) </br>The "execute" permission for directories means changing directory to those dirs (using the `cd` command) |
+| About the numbers of the characters mentioned above | "r" (read) = 4, "w" (write) = 2, "x" (execute) = 1 - Note that the sum of them is 7.</br>So, 777 means that anyone can do anything with that file/directory |
+| | |
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
