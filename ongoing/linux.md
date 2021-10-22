@@ -166,7 +166,25 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 |__PERMISSIONS__|
 | ls -l | The first character: "d" means directory, and "-" means file</br>The three characters after that: "r" = read, "w" = write, "x" = execute. If instead of any of them, a "-" is written, means that we cannot "read", "write" or "execute" that file. </br> The first three characters correspond to the permissions of the owner of the file</br>The second three characters correspond to the group members of the owner </br>The last three characters correspond to other users (any kind of user) </br>The "execute" permission for directories means changing directory to those dirs (using the `cd` command) |
 | About the numbers of the characters mentioned above | "r" (read) = 4, "w" (write) = 2, "x" (execute) = 1 - Note that the sum of them is 7.</br>So, 777 means that anyone can do anything with that file/directory |
-| | |
+| sudo chmod u  | give the permission of ... to the user named `` |
+| sudo chmod o  | give the permission of ... to the other users named `` |
+| sudo chmod g+w myfile.txt  | give the permission to write ("w") to the file "myfile.txt" to the group members of the owner of the file |
+| sudo chmod uog+w myfile.txt  | give the permission to write ("w") to the file "myfile.txt" to everyone |
+| sudo chmod g+rw myfile.txt  | give the permission to read and write ("rw") to the file "myfile.txt" to the group members of the owner of the file |
+| sudo chmod g+rxw myfile.txt  | give the permission to read, execute and write ("rxw") to the file "myfile.txt" to the group members of the owner of the file |
+| sudo chmod g+rxw myfile.txt  | give the permission to read, execute and write ("rxw") to the file "myfile.txt" to the group members of the owner of the file |
+| sudo chmod gou-wx myfile.txt | take away the permissions to write to and execute the file "myfile.txt" from every user |
+| sudo chmod ug+w myfile.txt | give the permission to write to the file "myfile.txt" to the owner and the group it belongs to |
+| sudo chmod 700 myfile.txt | give the permission to do anything to the owner of the file "myfile.txt", and do nothing to others |
+| sudo chmod +x myfile.txt | give the permission to write to the file "myfile.txt" to everyone! |
+| sudo chown arman myfile.txt | change the owner of the file "myfile.txt" to the user "arman" |
+| sudo chgrp mygroup myfile.txt | change the group of the file "myfile.txt" to the group "mygroup" |
+| sudo chown arman myfolder -R | change the owner of the directory named "myfolder" to the user "arman", along with all of its subfolders and files inside it |
+|__SYMBOLIC LINKS (EQUIVALENT OF SHORTCUTS IN WINDOWS)__|
+| ln -s /path/to/the/original/file.txt myshortcut.txt | create a shortcut of the file which is located at `/path/to/the/original/file.txt` in the current directory, and name it as `myshortcut.txt` |
+|__STICKY BIT__|
+| sudo chmod o+t myfolder/ | every user can only change the files that he/she owns |
+| sudo chmod 777 myfolder | remove the sticky bit mode |
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
