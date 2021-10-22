@@ -121,7 +121,20 @@ Remember the Goal: Making a list of the most necessary commands to work with lin
 | #! /etc/bash</br>for (( i=1 ; i <= 50 ; i++ ))</br>do</br>&nbsp;&nbsp;&nbsp;&nbsp; echo "number : $i$"</br>done</br>echo "done" | write the numbers from 1 to 50 with a "number : " string on the left side of them |
 |__MAIN DIRECTORIES IN LINUX__|
 | etc | all of the linux tools are here, including bluetooth, apache, python, and everything you can install on it. So, if you wanna configure sth, here is the place to look for the .conf file |
-|  | |
+| bin | contains the code for all of the commands such as "ls" |
+| lib | contains the libraries |
+| /var/log | the logs in linux are here |
+| dmsg | show the logs in a beautiful way (for instance, if you connect a usb, this will show sth) |
+|__PROCESSES__|
+| ps | list the processes that are running |
+| ps -aux | show the list of the processes being run by any user, along with the process IDs (PIDs) (Note: aux stands for all user execute) |
+| kill 5577 | kill the process with ID 5577 |
+| top | show the processes that are being run (live!) |
+| free | show the ram (memory), how much of it is used, how much is free, and the same things for the swap (which is used to accelerate the speed of the system) |
+| free -tb | show the ram (memory), how much (how many bytes) of it is used, how much is free, and the same things for the swap (which is used to accelerate the speed of the system) |
+| free -tm | show the ram (memory), how much (how many megabytes) of it is used, how much is free, and the same things for the swap (which is used to accelerate the speed of the system) |
+|__NETWORKING__|
+| | |
 |__AWS__|
 | aws s3 cp /path/to/a/file.txt s3://[bucket-name]/path/to/file.txt --endpoint-url https://[bucket-name].parspack.net | copy a file to a bucket |
 | aws s3 cp /path/to/a/folder s3://[bucket-name]/ --recursive --endpoint-url https://[bucket-name].parspack.net | copy a folder to a bucket |
