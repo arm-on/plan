@@ -7,6 +7,7 @@
 - [Pasta Alfredo](https://www.youtube.com/watch?v=zaCoDf-zrdk)
 
 # Pasta Alfredo
+
 <div style="direction:rtl;text-align:justify;">
 ۳ قاشق غذاخوری خامه + ۱ فنجان شیر + فلفل سیاه + نمک (یه کم) را رقیق و یکنواخت میکنیم. سپس ۱ قاشق غذاخوری پنیر پارمزان داخل آن می‌ریزیم.
 ۲ بند انگشت کره را داخل تابه می‌گذاریم و شعله را روشن می‌کنیم تا آب بشود.
