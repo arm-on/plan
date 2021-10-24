@@ -16,11 +16,13 @@ emails: arman.kaggle@gmail.com, malekzadeh.academic@gmail.com
 
 # Speekoo Plan (postponed)
 - French
-    - Speekoo App (Next: Lesson 10)
+    - Speekoo App (Next: Lesson 10) --> terminated
+    - Busuu :hammer:
 - German
-    - Speekoo App (Next: Lesson 13)
+    - Speekoo App (Next: Lesson 13) --> terminated
+    - Busuu :hammer:
 
 | Language   |      Lessons      |  Until |
 |----------|:-------------:|------:|
-| French |  14 | End of Mehr |
-| German | 13 | End of Mehr |
+| French |  0 | 3 Months to master A1 |
+| German | 2 | 3 Months to master A1 |

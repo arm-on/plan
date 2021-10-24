@@ -27,8 +27,8 @@ TPP should be written in the notebook
 - Hawkes Process :white_check_mark:
 - Poisson Process
     - Definition :white_check_mark:
-    - Example
-- Dirichlet Process
+    - Example :white_check_mark:
+- Dirichlet Process | [Youtube Playlist](https://www.youtube.com/playlist?list=PLIlweP9nJd-kp2bknDlhUcMYWxqXKfL4n)
 - Indian Buffet Process
 - Chinese Restaurant Process
 - Expectation Maximization
