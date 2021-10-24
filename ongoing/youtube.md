@@ -11,7 +11,7 @@
     - Expected (Cont.), Variance, Standard Deviation :white_check_mark:
     - Bernoulli Distribution :white_check_mark:
     - Binomial Distribution :white_check_mark:
-    - Geometric Distribution
+    - Geometric Distribution :white_check_mark:
     - Hypergeometric Distribution
     - Poisson Distribution
     - Linear transformation of random variables
