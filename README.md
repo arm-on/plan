@@ -6,6 +6,7 @@ Deadlines:
 - Busuu <img src="http://gen.sendtric.com/countdown/mkw5kwteeg" style="display: block;height:50px" />
 - Kaggle <img src="http://gen.sendtric.com/countdown/28vagyjlv6" style="display:block; height:50px">
 - Mihanwebhost <img src="http://gen.sendtric.com/countdown/qi0vh9vuo2" style="display: block; height:50px" />
+- Parspack <img src="http://gen.sendtric.com/countdown/baegmweg9h" style="display: block; height:50px" />
 
 Goals:
 - [Long-term](long-term-goals.md)
