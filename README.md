@@ -27,7 +27,6 @@ Ongoing:
 - [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
 - [Work](ongoing/work.md)
 - [Youtube](ongoing/youtube.md)
-- [Linux](ongoing/linux.md)
 - [Cooking](ongoing/cooking.md)
 - [Linear Algebra](ongoing/linear-algebra.md)
 - [Kaggle](ongoing/kaggle.md)
