@@ -1,3 +1,4 @@
+[Go Back](https://github.com/arm-on/plan/blob/main/ongoing/statistical-machine-learning.md)
 # Beta distribution
 1. https://towardsdatascience.com/beta-distribution-intuition-examples-and-derivation-cf00f4db57af
 2. https://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution
