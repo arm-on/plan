@@ -2,7 +2,7 @@
 
 # Azmoon Jame
 - [CS Master Program](https://github.com/arm-on/plan/blob/main/materials/cs-master.pdf)
-- [CE Grad Program](https://github.com/arm-on/plan/blob/main/materials/ce-grad.pdf)
+- [CE Grad Program](https://github.com/arm-on/plan/blob/main/materials/ce-grad.pdf) | Page 177 is about SML
 - [CS Machine Learning](https://github.com/arm-on/plan/blob/main/materials/cs-ml.pdf)
 - [CE Machine Learning](https://github.com/arm-on/plan/blob/main/materials/ce-ml.pdf)
 - [CE Soleymani Course Page](http://ce.sharif.edu/courses/99-00/1/ce717-1/index.php/section/resources/file/resources)
