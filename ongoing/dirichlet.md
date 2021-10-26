@@ -26,3 +26,4 @@
 14. http://halweb.uc3m.es/esp/Personal/personas/causin/eng/2011-2012/Bayes/DP.pdf
 15. https://ani.stat.fsu.edu/~sethu/PDFS/bahadur.talk.pdf
 16. https://jmlr.org/papers/volume12/blei11a/blei11a.pdf | has Chinese Restaurant Process also
+17. http://people.eecs.berkeley.edu/~jordan/courses/260-spring10/lectures/lecture24.pdf
