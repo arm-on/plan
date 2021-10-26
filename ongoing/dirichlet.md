@@ -1,4 +1,11 @@
 # Beta distribution
+1. https://towardsdatascience.com/beta-distribution-intuition-examples-and-derivation-cf00f4db57af
+2. https://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution
+3. https://www.sciencedirect.com/topics/mathematics/beta-distribution
+4. https://www.statlect.com/probability-distributions/beta-distribution
+5. https://study.com/academy/lesson/beta-distribution-definition-equations-examples.html
+6. https://www.statisticshowto.com/beta-distribution/
+7. https://www.vosesoftware.com/riskwiki/Betadistribution.php
 # Dirichlet Distribution
 1. https://towardsdatascience.com/dirichlet-distribution-a82ab942a879
 2. https://stats.stackexchange.com/questions/244917/what-exactly-is-the-alpha-in-the-dirichlet-distribution
