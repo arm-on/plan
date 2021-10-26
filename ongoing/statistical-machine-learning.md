@@ -28,7 +28,7 @@ TPP should be written in the notebook
 - Poisson Process
     - Definition :white_check_mark:
     - Example :white_check_mark:
-- Dirichlet Process | [Youtube Playlist](https://www.youtube.com/playlist?list=PLIlweP9nJd-kp2bknDlhUcMYWxqXKfL4n)
+- [Dirichlet Process](https://github.com/arm-on/plan/blob/main/ongoing/dirichlet.md) | [Youtube Playlist](https://www.youtube.com/playlist?list=PLIlweP9nJd-kp2bknDlhUcMYWxqXKfL4n)
 - Indian Buffet Process
 - Chinese Restaurant Process
 - Expectation Maximization
