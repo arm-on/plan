@@ -20,6 +20,7 @@ Tasks:
 - [Short-term](short-term-tasks.md)
 - Temporary
   - [Azmoon Jame](azmoon-jame.md)
+  - Ahmadi Roshan [Uploade madarek]
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
