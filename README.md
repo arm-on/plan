@@ -30,7 +30,6 @@ Ongoing:
 - [Work](ongoing/work.md)
 - [Youtube](ongoing/youtube.md)
 - [Cooking](ongoing/cooking.md)
-- [Linear Algebra](ongoing/linear-algebra.md)
 - [Kaggle](ongoing/kaggle.md)
 - Django (Next: Session 43)
 
