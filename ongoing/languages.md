@@ -29,3 +29,16 @@ emails: arman.kaggle@gmail.com, malekzadeh.academic@gmail.com
 |----------|:-------------:|------:|
 | French |  0 | 3 Months to master A1 |
 | German | 2 | 3 Months to master A1 |
+
+# German
+## Conversation
+```
+- Hallo! Ich heisse Arman. Wie heisst du?
++ Hallo! Freut mich. Ich heisse Sina.
+- Freut mich auch!
+```
+```
++ Hi Arman! Wie geht's?
+- Hi! Gut, danke! und du?
++ Gut, danke!
+```
