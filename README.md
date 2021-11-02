@@ -20,6 +20,7 @@ Tasks:
 - [Short-term](short-term-tasks.md)
 - Temporary
   - [Azmoon Jame](azmoon-jame.md)
+  - Retrieving a list of NLP conferences to publish the paper
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
