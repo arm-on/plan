@@ -21,6 +21,7 @@ Tasks:
 - Temporary
   - [Azmoon Jame](azmoon-jame.md)
   - Retrieving a list of NLP conferences to publish the paper
+  - [Expected Maximization](https://towardsdatascience.com/expectation-maximization-explained-c82f5ed438e5)
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
