@@ -24,6 +24,7 @@ Tasks:
   - [Expected Maximization](https://towardsdatascience.com/expectation-maximization-explained-c82f5ed438e5)
   - Publishing Farsnews Data on Kaggle 
   - Updating the 123 Server
+  - Making a virtual env. for each professor on Server 121
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
