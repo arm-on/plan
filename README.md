@@ -34,4 +34,5 @@ Ongoing:
 - [Cooking](ongoing/cooking.md)
 - [Kaggle](ongoing/kaggle.md)
 - Django (Next: Session 43)
+- [Machine Learning Theory](ongoing/mlt.md)
 
