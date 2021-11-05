@@ -1,19 +1,7 @@
 [Go Back](https://github.com/arm-on/plan/blob/main/README.md)
 # High-Dimensional Statistics
-- Chap 1 [P. 1~20]
-    - Law of Large Numbers
-    - Central Limit Theorem
-    - Hypothesis testing (Type 1 & 2 Errors)
-- Chap 2 [P. 21~57]
-  
-| | |
-|-|-|
-| Chapter | Status |
-| 1 | Reading newspaperly finished |
 
-| | |
-|-|-|
-| word | meaning |
-| asymptotic | تقریبی |
-| foray | هجوم |
-| vignette | a brief description |
+- To read:
+    - Example 2.11 (Page 49)
+    - Example 2.12 (Embedding)
+    
