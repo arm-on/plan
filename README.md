@@ -20,9 +20,11 @@ Tasks:
 - [Short-term](short-term-tasks.md)
 - Temporary
   - [Azmoon Jame](azmoon-jame.md)
+    - Being in Contact with Dr. Beigy about the Exam
   - Retrieving a list of NLP conferences to publish the paper
   - [Expected Maximization](https://towardsdatascience.com/expectation-maximization-explained-c82f5ed438e5)
-  - cuDNN 8.1 Installation
+  - High-Dimensional Statistics - Assignment 1
+  - MCI - Backup
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
