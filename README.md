@@ -23,8 +23,7 @@ Tasks:
     - Being in Contact with Dr. Beigy about the Exam
   - Retrieving a list of NLP conferences to publish the paper
   - [Expected Maximization](https://towardsdatascience.com/expectation-maximization-explained-c82f5ed438e5)
-  - [High-Dimensional Statistics - Assignment 1](https://github.com/arm-on/plan/blob/main/materials/HDS_HW1.pdf)
-  - MCI - Backup
+  - [High-Dimensional Statistics - Assignment 1](https://github.com/arm-on/plan/blob/main/materials/HDS_HW1.pdf) - Deadline: 5 Azar
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
