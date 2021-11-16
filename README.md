@@ -1,7 +1,7 @@
 Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.md) | [Temporary Note](https://github.com/arm-on/privateplans/blob/main/temp.md) |
 
 Deadlines:
-- Google Drive <img src="http://gen.sendtric.com/countdown/ao22exkpbx" style="display: block; height:50px" />
+- Google Drive: November 14th, 2022
 - Google Colab <img src="http://gen.sendtric.com/countdown/08cjgt5j49" style="display: block; height:50px" />
 - Busuu <img src="http://gen.sendtric.com/countdown/mkw5kwteeg" style="display: block;height:50px" />
 - Kaggle <img src="http://gen.sendtric.com/countdown/28vagyjlv6" style="display:block; height:50px">
