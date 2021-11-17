@@ -26,4 +26,4 @@ Note: Dr. Beigy said that the confirmation will be done after the form is sent o
 
 # Status
 
-- Status: Waiting for Dr. Beigy's reply
+- Status: Waiting for Dr. Beigy's reply on the datetime of the exam
