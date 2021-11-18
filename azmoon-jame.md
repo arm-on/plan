@@ -39,16 +39,8 @@ Note: Dr. Beigy said that the confirmation will be done after the form is sent o
 - [Machine Learning - 93 - 94](http://ce.sharif.edu/courses/93-94/1/ce717-1)
 - [Statistical Pattern Recognition - 92 - 93](http://ce.sharif.edu/courses/92-93/2/ce725-1) - Only Some Assignments
 - [Data Mining - 92 - 93](http://ce.sharif.edu/courses/92-93/1/ce714-1)
-- [Machine Learning - 92 - 93](http://ce.sharif.edu/courses/92-93/1/ce717-1)
-- [Machine Learning - 90 - 91](http://ce.sharif.edu/courses/90-91/1/ce717-1)
-- [Machine Learning - 89 - 90](http://ce.sharif.edu/courses/89-90/1/ce717-1)
-- [Machine Learning - 88 - 89](http://ce.sharif.edu/courses/88-89/1/ce717-1)
-- [Machine Learning - 87 - 88](http://ce.sharif.edu/courses/87-88/1/ce717)
+- [Machine Learning - 92 - 93](http://ce.sharif.edu/courses/92-93/1/ce717-1) [Good Slides!]
 - [Machine Learning - 86 - 87](http://ce.sharif.edu/courses/86-87/1/ce717)
-- [Machine Learning - 85 - 86](http://ce.sharif.edu/courses/85-86/2/ce717)
-- [Machine Learning - 84 - 85](http://ce.sharif.edu/courses/84-85/2/ce717)
-- [Machine Learning - 84 - 85](http://ce.sharif.edu/courses/84-85/1/ce714)
-- [Machine Learning - 83 - 84](http://ce.sharif.edu/courses/83-84/1/ce717)
 # Status
 
 - Status: Waiting for Dr. Beigy's reply on the datetime of the exam
