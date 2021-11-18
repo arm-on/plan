@@ -24,7 +24,6 @@ Tasks:
   - Retrieving a list of NLP conferences to publish the paper
   - [Expected Maximization](https://towardsdatascience.com/expectation-maximization-explained-c82f5ed438e5)
   - [High-Dimensional Statistics - Assignment 1](https://github.com/arm-on/plan/blob/main/materials/HDS_HW1.pdf) - Deadline: 5 Azar
-  - Meysam Raz: Exploring his code, and sending him the comments I have on it
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
