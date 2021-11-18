@@ -25,14 +25,11 @@ The following documents should be sent to Ms. Lashkarian in an email.
 Note: Dr. Beigy said that the confirmation will be done after the form is sent officialy to him. Therefore, I should be reading the course of Dr. Jamzad and be prepared for it.
 
 # Dr. Beigy's Courses
-- [Modern Information Retrieval - 99 - 00](http://ce.sharif.edu/courses/99-00/1/ce324-1/)
 - [Machine Learning Theory - 98 - 99](http://ce.sharif.edu/courses/98-99/2/ce718-1/)
-- [Modern Information Retrieval - 98 - 99](http://ce.sharif.edu/courses/98-99/1/ce324-1/)
 - [Deep Learning - 98 - 99](http://ce.sharif.edu/courses/98-99/1/ce718-1/)
 - [Deep Learning - 98 - 99](http://ce.sharif.edu/courses/98-99/1/ce719-1/)
 - [Machine Learning - 97 - 98](http://ce.sharif.edu/courses/97-98/2/ce717-1/)
 - [Machine Learning Theory - 97 - 98](http://ce.sharif.edu/courses/97-98/2/ce718-1/)
-- [Modern Information Retrieval - 97 - 98](http://ce.sharif.edu/courses/97-98/1/ce324-2/)
 - [Deep Learning - 97 - 98](http://ce.sharif.edu/courses/97-98/1/ce959-1/)
 - [Machine Learning Theory - 96 - 97](http://ce.sharif.edu/courses/96-97/2/ce718-1/)
 - [Data Mining - 96 - 97](http://ce.sharif.edu/courses/96-97/1/ce714-1/)
