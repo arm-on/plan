@@ -40,8 +40,6 @@ Note: Dr. Beigy said that the confirmation will be done after the form is sent o
 - [Statistical Pattern Recognition - 92 - 93](http://ce.sharif.edu/courses/92-93/2/ce725-1) - Only Some Assignments
 - [Data Mining - 92 - 93](http://ce.sharif.edu/courses/92-93/1/ce714-1)
 - [Machine Learning - 92 - 93](http://ce.sharif.edu/courses/92-93/1/ce717-1)
-- [Computational Intelligence - 91 - 92](http://ce.sharif.edu/courses/91-92/2/ce777-1)
-- [Computational Intelligence - 90 - 91](http://ce.sharif.edu/courses/90-91/2/ce777-1)
 - [Machine Learning - 90 - 91](http://ce.sharif.edu/courses/90-91/1/ce717-1)
 - [Machine Learning - 89 - 90](http://ce.sharif.edu/courses/89-90/1/ce717-1)
 - [Machine Learning - 88 - 89](http://ce.sharif.edu/courses/88-89/1/ce717-1)
