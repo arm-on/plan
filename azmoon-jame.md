@@ -24,6 +24,20 @@ The following documents should be sent to Ms. Lashkarian in an email.
 
 Note: Dr. Beigy said that the confirmation will be done after the form is sent officialy to him. Therefore, I should be reading the course of Dr. Jamzad and be prepared for it.
 
+# Dr. Beigy's Courses
+- [Machine Learning - 97 - 98](http://ce.sharif.edu/courses/97-98/2/ce717-1/)
+- [Data Mining - 96 - 97](http://ce.sharif.edu/courses/96-97/1/ce714-1/)
+- [Machine Learning - 96 - 97](http://ce.sharif.edu/courses/96-97/1/ce717-1/)
+- [Data Mining - 95 - 96](http://ce.sharif.edu/courses/95-96/1/ce714-1/)
+- [Machine Learning - 95 - 96](http://ce.sharif.edu/courses/95-96/1/ce717-1/)
+- [Data Mining - 94 - 95](http://ce.sharif.edu/courses/94-95/1/ce714-1/)
+- [Machine Learning - 94 - 95](http://ce.sharif.edu/courses/94-95/1/ce717-1/)
+- [Data Mining - 94 - 95](http://ce.sharif.edu/courses/94-95/1/ce714-1/)
+- [Machine Learning - 94 - 95](http://ce.sharif.edu/courses/94-95/1/ce717-1/)
+- [Machine Learning - 93 - 94](http://ce.sharif.edu/courses/93-94/1/ce717-1) - This is awesome!
+- [Statistical Pattern Recognition - 92 - 93](http://ce.sharif.edu/courses/92-93/2/ce725-1) - Only Some Assignments
+- [Machine Learning - 92 - 93](http://ce.sharif.edu/courses/92-93/1/ce717-1) [Good Slides!]
+- [Machine Learning - 86 - 87](http://ce.sharif.edu/courses/86-87/1/ce717)
 # Status
 
-- Status: Waiting for Dr. Beigy's reply
+- Status: Waiting for Dr. Beigy's reply on the datetime of the exam
