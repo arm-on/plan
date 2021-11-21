@@ -26,6 +26,8 @@ Note: Dr. Beigy said that the confirmation will be done after the form is sent o
 
 # Dr. Beigy's Courses
 - [Machine Learning - 97 - 98](http://ce.sharif.edu/courses/97-98/2/ce717-1/)
+    - Sample Exam - [Linear Regression (how to solve)](https://www.youtube.com/watch?v=DSQ2plMtbLc)
+    - [Sample Variance is biased](https://www.youtube.com/watch?v=xJlwSkyeP0k)
 - [Data Mining - 96 - 97](http://ce.sharif.edu/courses/96-97/1/ce714-1/)
 - [Machine Learning - 96 - 97](http://ce.sharif.edu/courses/96-97/1/ce717-1/)
 - [Data Mining - 95 - 96](http://ce.sharif.edu/courses/95-96/1/ce714-1/)
@@ -38,6 +40,9 @@ Note: Dr. Beigy said that the confirmation will be done after the form is sent o
 - [Statistical Pattern Recognition - 92 - 93](http://ce.sharif.edu/courses/92-93/2/ce725-1) - Only Some Assignments
 - [Machine Learning - 92 - 93](http://ce.sharif.edu/courses/92-93/1/ce717-1) [Good Slides!]
 - [Machine Learning - 86 - 87](http://ce.sharif.edu/courses/86-87/1/ce717)
+
+
+
 # Status
 
 - Status: Waiting for Dr. Beigy's reply on the datetime of the exam
