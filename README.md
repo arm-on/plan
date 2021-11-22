@@ -21,6 +21,7 @@ Tasks:
     - Status: Waiting for Dr. Beigy's reply on the datetime of the exam
   - Retrieving a list of NLP conferences to publish the paper
   - [Expected Maximization](https://towardsdatascience.com/expectation-maximization-explained-c82f5ed438e5) | [Another Good link](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-datSc4-EMmixt.pdf)
+  - Question: Is this really an statistical learning method?
   - [High-Dimensional Statistics - Assignment 1](https://github.com/arm-on/plan/blob/main/materials/HDS_HW1.pdf) - Deadline: 5 Azar
   - [Maximum a Posteriori (MAP)](https://towardsdatascience.com/mle-vs-map-a989f423ae5c)
   - Training a BERT Model on Persian Twitter Data
