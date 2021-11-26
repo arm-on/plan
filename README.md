@@ -26,7 +26,7 @@ Tasks:
   - [High-Dimensional Statistics - Assignment 1](https://github.com/arm-on/plan/blob/main/materials/HDS_HW1.pdf) - Deadline: 5 Azar
   - [Maximum a Posteriori (MAP)](https://towardsdatascience.com/mle-vs-map-a989f423ae5c)
   - Training a BERT Model on Persian Twitter Data [Status: 95000 Steps]
-  - Beta Distribution
+  - Dirichlet Distribution
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
