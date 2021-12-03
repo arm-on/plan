@@ -4,7 +4,7 @@ Deadlines:
 - Google Drive: November 14th, 2022
 - Google Colab <img src="http://gen.sendtric.com/countdown/08cjgt5j49" style="display: block; height:50px" />
 - Busuu <img src="http://gen.sendtric.com/countdown/mkw5kwteeg" style="display: block;height:50px" />
-- Mihanwebhost <img src="http://gen.sendtric.com/countdown/86jrdpri1n" style="display: block; height:50px" />
+- Mihanwebhost <img src="http://gen.sendtric.com/countdown/r4k53aozzt" style="display: block; height:50px" />
 - CrawlServer  <img src="http://gen.sendtric.com/countdown/0qkpnn2aq2" style="display: block;height:50px" />
 
 Goals:
@@ -25,7 +25,11 @@ Tasks:
   - Question: Is this really an statistical learning method?
   - [High-Dimensional Statistics - Assignment 1](https://github.com/arm-on/plan/blob/main/materials/HDS_HW1.pdf) - Deadline: 5 Azar
   - [Maximum a Posteriori (MAP)](https://towardsdatascience.com/mle-vs-map-a989f423ae5c)
+<<<<<<< HEAD
   - Training a BERT Model on Persian Twitter Data [Status: 209000 Steps]
+=======
+  - Training a BERT Model on Persian Twitter Data [Status: 198000 Steps]
+>>>>>>> f85b9e537aea3ca749b58a6a5d13de8fcb732c85
   - Dirichlet Distribution
 
 Ongoing:
