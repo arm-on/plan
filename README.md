@@ -30,14 +30,16 @@ Tasks:
 
 Ongoing:
 - [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
-- [Digital Image Processing](ongoing/digital-image-processing.md)
-- [Languages](ongoing/languages.md)
 - [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
 - [Work](ongoing/work.md)
 - [Youtube](ongoing/youtube.md)
 - [Cooking](ongoing/cooking.md)
 - [Kaggle](ongoing/kaggle.md)
+  
+On Hold:
+
 - Django (Next: Session 43)
 - [Machine Learning Theory](ongoing/mlt.md)
 - Docker
 - [Information Theory](ongoing/inf.md)
+- [Languages](ongoing/languages.md)
