@@ -25,7 +25,7 @@ Tasks:
   - Question: Is this really an statistical learning method?
   - [High-Dimensional Statistics - Assignment 2](https://github.com/arm-on/plan/blob/main/materials/HDS_HW2.pdf) - Deadline: 25 Azar
   - [Maximum a Posteriori (MAP)](https://towardsdatascience.com/mle-vs-map-a989f423ae5c)
-  - Training a BERT Model on Persian Twitter Data [Status: 209500 Steps]
+  - Training a BERT Model on Persian Twitter Data [Status: 219000 Steps]
   - Dirichlet Distribution
 
 Ongoing:
