@@ -3,7 +3,7 @@
 
 - Getting my PhD from Sharif University of Technology :hammer:
 - Speaking English, French, and German :hammer:
-- Developing Websites using Django :hammer:
+- Developing Websites using Django
 - Becoming a Youtuber :hammer:
 - Becoming a Kaggle Master :beer:
 - Publishing two Q1 Papers
