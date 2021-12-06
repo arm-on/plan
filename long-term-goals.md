@@ -19,6 +19,6 @@
     - Machine Learning Theory [Videos](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO) [Book](http://www.datascienceassn.org/sites/default/files/Understanding%20Machine%20Learning%20-%20From%20Theory%20to%20Algorithms.pdf)
     - Information Theory [McKay](http://videolectures.net/course_information_theory_pattern_recognition/)
     - Real Analysis [Book](https://smartmanmaths.files.wordpress.com/2017/11/real-mathematical-analysis.pdf)
-    - Linear Algebra :beer:
+    - Linear Algebra :white_check_mark:
 - Learning to Cook! :beer:
 - Becoming a DJ
