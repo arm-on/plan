@@ -21,5 +21,4 @@
     - Real Analysis [Book](https://smartmanmaths.files.wordpress.com/2017/11/real-mathematical-analysis.pdf)
     - Linear Algebra :beer:
 - Learning to Cook! :beer:
-- Becoming a Good Chess Player
 - Becoming a DJ
