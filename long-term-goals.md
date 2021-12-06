@@ -10,7 +10,7 @@
 - Learning to Work with Linux :white_check_mark:
 - Learning to Work with Git & Github :white_check_mark:
 - Developing My Theory Skills including
-    - Probability and Statistics for Engineering :hammer:
+    - Probability and Statistics for Engineering :white_check_mark:
     - Stochastic Processes
     - Convex Optimization [Tibshirani](http://www.stat.cmu.edu/~ryantibs/convexopt-F18/)
     - Math 1 & 2
