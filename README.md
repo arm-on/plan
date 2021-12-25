@@ -19,11 +19,10 @@ Tasks:
 - [Short-term](short-term-tasks.md)
 - Temporary
   - [Azmoon Jame](azmoon-jame.md) | [Questions](https://github.com/arm-on/plan/blob/main/materials/Rabiee-Quizzez.pdf)
-    - Status: I should send the syllabus to Dr. Beigy
+    - Status: 4shanbe, 8 Dey 
   - Retrieving a list of NLP conferences to publish the paper
   - [Expected Maximization](https://towardsdatascience.com/expectation-maximization-explained-c82f5ed438e5) | [Another Good link](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-datSc4-EMmixt.pdf)
   - Question: Is this really an statistical learning method?
-  - [High-Dimensional Statistics - Assignment 2](https://github.com/arm-on/plan/blob/main/materials/HDS_HW2.pdf) - Deadline: 25 Azar
   - [Maximum a Posteriori (MAP)](https://towardsdatascience.com/mle-vs-map-a989f423ae5c)
   - Dirichlet Distribution
 
