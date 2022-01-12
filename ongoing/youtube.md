@@ -12,10 +12,11 @@
     - Bernoulli Distribution :white_check_mark:
     - Binomial Distribution :white_check_mark:
     - Geometric Distribution :white_check_mark:
-    - Hypergeometric Distribution
-    - Poisson Distribution
-    - Linear transformation of random variables
-    - Normal Distribution
+    - Hypergeometric Distribution :white_check_mark:
+    - Poisson Distribution :white_check_mark:
+    - Linear transformation of random variables :white_check_mark:
+    - Normal Distribution :white_check_mark:
     
 ## AINT (Persian)
 - Git :white_check_mark:
+- HDS (Up Next: Session 4)
