@@ -5,7 +5,7 @@ Deadlines:
 - Google Colab <img src="http://gen.sendtric.com/countdown/6uw6wony57" style="display: block; height:50px" />
 - Busuu: December 7th, 2022
 - Mihanwebhost <img src="http://gen.sendtric.com/countdown/xag1sgnhl9" style="display: block; height:50px" />
-- CrawlServer  <img src="http://gen.sendtric.com/countdown/0qkpnn2aq2" style="display: block;height:50px" />
+- CrawlServer  <img src="http://gen.sendtric.com/countdown/b7tm38bqzw" style="display: block; height:50px" />
 
 Goals:
 - [Long-term](long-term-goals.md)
