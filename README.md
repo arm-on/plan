@@ -7,6 +7,36 @@ Deadlines:
 - Mihanwebhost <img src="http://gen.sendtric.com/countdown/xag1sgnhl9" style="display: block; height:50px" />
 - CrawlServer  <img src="http://gen.sendtric.com/countdown/b7tm38bqzw" style="display: block; height:50px" />
 
+<table>
+
+<tr>
+</td>
+Google Drive
+</td>
+<td>
+November 14th, 2022
+</td>
+</tr>
+
+<tr>
+</td>
+Google Colab
+</td>
+<td>
+Until Further Notice
+</td>
+</tr>
+
+<tr>
+</td>
+
+</td>
+<td>
+
+</td>
+</tr>
+</table>
+
 Goals:
 - [Long-term](long-term-goals.md)
 - [Short-term](short-term-goals.md)
