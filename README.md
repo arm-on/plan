@@ -52,6 +52,7 @@ Tasks:
 - [Short-term](short-term-tasks.md)
 - Temporary
     - Dr. Koohi (Numpy)
+    - Session 4 (HDS on Youtube)
 
 Ongoing:
 - [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
