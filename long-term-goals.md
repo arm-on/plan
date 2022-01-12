@@ -22,4 +22,3 @@
     - Linear Algebra :white_check_mark:
 - Learning to Cook! :beer:
 - Becoming a DJ
-- Reading Papers to Write a Research Proposal for my PhD (Postponed until the end of the exams)

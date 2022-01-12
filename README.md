@@ -69,3 +69,4 @@ On Hold:
 - [Information Theory](ongoing/inf.md)
 - [Kaggle](ongoing/kaggle.md)
 - Divar+AUT AI Competition
+- Reading Papers to Write a Research Proposal for my PhD (Postponed until the end of the exams)
