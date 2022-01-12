@@ -4,41 +4,22 @@
 
 ‌[Busuu Buy Link](https://license-market.ir/product/Busuu)
 
-emails: arman.kaggle@gmail.com, malekzadeh.academic@gmail.com
+emails: malekzadeh@ieee.org
 
-
-
-# Busuu Plan
-- German
-    - A1: 96 Lessons, A2: 77 Lessons, B1: 51 Lessons, B2: 32 Lessons
-    - Each Day: 3 Lessons, Each Week: 6 Lessons
-    - Next: 7
-- French
-    - A1: 82 Lessons, A2: 78 Lessons, B1: 46 Lessons, B2: 27 Lessons 
-    - Each Day: 3 Lessons, Each Week: 6 Lessons
-    - Next: 7
-# Speekoo Plan (postponed)
-- French
-    - Speekoo App (Next: Lesson 10) --> terminated
-    - Busuu :hammer:
-- German
-    - Speekoo App (Next: Lesson 13) --> terminated
-    - Busuu :hammer:
-
-| Language   |      Lessons      |  Until |
-|----------|:-------------:|------:|
-| French |  0 | 3 Months to master A1 |
-| German | 2 | 3 Months to master A1 |
-
-# German
-## Conversation
-```
-- Hallo! Ich heisse Arman. Wie heisst du?
-+ Hallo! Freut mich. Ich heisse Sina.
-- Freut mich auch!
-```
-```
-+ Hi Arman! Wie geht's?
-- Hi! Gut, danke! und du?
-+ Gut, danke!
-```
+<table style="width:100%">
+  <tr>
+    <th>Language</th>
+    <th>Status</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td>German (Malekpour)</td>
+    <td>Lesson 5 was finished</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dutch (Learn dutch with Kim on Youtube)</td>
+    <td>Postponed until the end of the exams</td>
+    <td></td>
+  </tr>
+</table>
