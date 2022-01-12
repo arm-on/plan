@@ -2,7 +2,7 @@
 # Long-term Goals
 
 - Getting my PhD from Sharif University of Technology :hammer:
-- Speaking English, French, and German :hammer:
+- Speaking English, Dutch, and German :hammer:
 - Developing Websites using Django
 - Becoming a Youtuber :hammer:
 - Becoming a Kaggle Notebooks Master [10 Silver Medals (20 Votes)] :beer:
