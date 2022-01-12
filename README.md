@@ -51,7 +51,6 @@ Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-    - Dr. Koohi (Numpy)
     - Session 4 (HDS on Youtube)
 
 Ongoing:
