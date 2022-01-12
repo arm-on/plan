@@ -68,3 +68,4 @@ On Hold:
 - Docker
 - [Information Theory](ongoing/inf.md)
 - [Kaggle](ongoing/kaggle.md)
+- Divar+AUT AI Competition
