@@ -51,26 +51,19 @@ Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-  - [Azmoon Jame](azmoon-jame.md)
-    - Last Update: Sent an email to Dr. Beigy (Ms. Lashkarian was in CC), Waiting for Dr. Beigy's reply (he should send the grade to her email)
-  - Retrieving a list of NLP conferences to publish the paper
-  - [Expected Maximization](https://towardsdatascience.com/expectation-maximization-explained-c82f5ed438e5) | [Another Good link](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-datSc4-EMmixt.pdf)
-  - Question: Is this really an statistical learning method?
-  - [Maximum a Posteriori (MAP)](https://towardsdatascience.com/mle-vs-map-a989f423ae5c)
-  - Dirichlet Distribution
+    - Dr. Koohi (Numpy)
 
 Ongoing:
-- [Statistical Machine Learning](ongoing/statistical-machine-learning.md)
 - [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
 - [Work](ongoing/work.md)
 - [Youtube](ongoing/youtube.md)
-- [Cooking](ongoing/cooking.md)
-- [Kaggle](ongoing/kaggle.md)
+- [Languages](ongoing/languages.md)
   
 On Hold:
 
 - Django (Next: Session 43)
+- [Cooking](ongoing/cooking.md)
 - [Machine Learning Theory](ongoing/mlt.md)
 - Docker
 - [Information Theory](ongoing/inf.md)
-- [Languages](ongoing/languages.md)
+- [Kaggle](ongoing/kaggle.md)
