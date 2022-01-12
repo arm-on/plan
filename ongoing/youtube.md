@@ -19,4 +19,5 @@
     
 ## AINT (Persian)
 - Git :white_check_mark:
+- ML Theory (Postponed until the end of the exams)
 - HDS (Up Next: Session 4)
