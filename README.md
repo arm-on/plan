@@ -38,6 +38,13 @@ Deadlines:
     <td><img src="http://gen.sendtric.com/countdown/b7tm38bqzw" style="display: block; height:50px" /></td>
     <td></td>
   </tr>
+  <tr>
+  <td>
+  Vaccination (3rd Dose)
+  </td>
+  <td>23 Day, 1400</td>
+  <td></td>
+  </tr>
 </table>
 
 Goals:
