@@ -52,6 +52,7 @@ Tasks:
 - [Short-term](short-term-tasks.md)
 - Temporary
     - Session 4 (HDS on Youtube)
+    - Sending the Report of the Phase 1 to the New Member
 
 Ongoing:
 - [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
