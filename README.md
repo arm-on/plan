@@ -1,11 +1,6 @@
 Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.md) | [Temporary Note](https://github.com/arm-on/privateplans/blob/main/temp.md) |
 
 Deadlines:
-<!-- - Google Drive: November 14th, 2022
-- Google Colab <img src="http://gen.sendtric.com/countdown/6uw6wony57" style="display: block; height:50px" />
-- Busuu: December 7th, 2022
-- Mihanwebhost <img src="http://gen.sendtric.com/countdown/xag1sgnhl9" style="display: block; height:50px" />
-- CrawlServer  <img src="http://gen.sendtric.com/countdown/b7tm38bqzw" style="display: block; height:50px" /> -->
 
 <table style="width:100%">
   <tr>
@@ -59,7 +54,6 @@ Tasks:
 - [Short-term](short-term-tasks.md)
 - Temporary
     - Session 4 (HDS on Youtube)
-    - Sending the Report of the Phase 1 to the New Member
 
 Ongoing:
 - [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
