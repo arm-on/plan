@@ -14,7 +14,7 @@ emails: malekzadeh@ieee.org
   </tr>
   <tr>
     <td>German (Malekpour)</td>
-    <td>Lesson 5 was finished</td>
+    <td>Next: Lesson 6</td>
     <td></td>
   </tr>
   <tr>
