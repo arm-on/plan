@@ -53,7 +53,7 @@ Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-    - Session 9 (HDS on Youtube)
+    - Session 10 (HDS on Youtube)
 
 Ongoing:
 - [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
