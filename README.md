@@ -53,7 +53,8 @@ Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-    - Session 10 (HDS on Youtube)
+    - Session 13 (HDS on Youtube)
+    - Sending the voice files for Ali Amirinejad
 
 Ongoing:
 - [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
