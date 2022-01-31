@@ -25,23 +25,18 @@
     - XLM paper (https://arxiv.org/pdf/1901.07291.pdf)
 
 
-## Languages
-- French :hammer:
-    - Speekoo (20 Levels)
-    - Bamboo Channel [Link](https://www.youtube.com/watch?v=0s-mh_rLe1I&list=PLfvO0lX1t_Wylq1vrKpHdMXVhRtFkv54G) 
+## Languages 
 - German :hammer:
     - Speekoo (20 Levels)
     - Bamboo Channel [Link](https://www.youtube.com/watch?v=2w7JiKuNrQM&list=PLfvO0lX1t_WxJNjeKU1pj-dW4TDEZd_Lg)
-- Turkish :hammer:
-    - Bamboo Channel [Link](https://www.youtube.com/watch?v=EYpkg57QD6M&list=PLfvO0lX1t_WxEgPhAi7pUHvvXC_QHKLu3)
 
 ## Sarbazi
 - I need two Q1 papers
 
 ## Work Skills
-- Django :hammer:
+- Django
 - Git :white_check_mark:
-- Linux :hammer:
+- Linux :white_check_mark:
 
 ## Youtube
 - AINT :hammer:
