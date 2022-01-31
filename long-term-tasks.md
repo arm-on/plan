@@ -27,9 +27,10 @@
 
 ## Languages 
 - German :hammer:
-    - Speekoo (20 Levels)
     - Bamboo Channel [Link](https://www.youtube.com/watch?v=2w7JiKuNrQM&list=PLfvO0lX1t_WxJNjeKU1pj-dW4TDEZd_Lg)
-
+- Dutch
+    - Busuu app
+    - 
 ## Sarbazi
 - I need two Q1 papers
 
