@@ -53,14 +53,13 @@ Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-    - Session 13 (HDS on Youtube)
-    - Sending the voice files to Ali Amirinejad
+  - Writing a description for the TF-Linux Video
 
 Ongoing:
-- [High-Dimensional Statistics](ongoing/high-dimensional-statistics.md)
 - [Work](ongoing/work.md)
 - [Youtube](ongoing/youtube.md)
 - [Languages](ongoing/languages.md)
+
   
 On Hold:
 
