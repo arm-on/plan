@@ -1,5 +1,6 @@
-- [Learning to Explain: Datasets and Models for Identifying Valid
-Reasoning Chains in Multihop Question-Answering](https://aclanthology.org/2020.emnlp-main.10.pdf)
+[EMNLP 2020](https://aclanthology.org/volumes/2020.emnlp-main/) | [EMNLP 2021](https://aclanthology.org/volumes/2021.emnlp-main/)
+
+- [Learning to Explain: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering](https://aclanthology.org/2020.emnlp-main.10.pdf)
 
 - [ProtoQA: A Question Answering Dataset for Prototypical Common-Sense Reasoning](https://aclanthology.org/2020.emnlp-main.85.pdf)
 
