@@ -28,11 +28,6 @@ Deadlines:
     <td><img src="http://gen.sendtric.com/countdown/z026br0pa4" style="display: block; height:50px" /></td>
     <td></td>
   </tr>
-    <tr>
-    <td>CrawlServer</td>
-    <td><img src="http://gen.sendtric.com/countdown/b7tm38bqzw" style="display: block; height:50px" /></td>
-    <td></td>
-  </tr>
   <tr>
   <td>
   Vaccination (3rd Dose)
