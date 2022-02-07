@@ -31,3 +31,7 @@
 - [Identifying Morality Frames in Political Tweets using Relational Learning](https://aclanthology.org/2021.emnlp-main.783.pdf)
 
 - [MassiveSumm: a very large-scale, very multilingual, newswire summarisation dataset](https://aclanthology.org/2021.emnlp-main.797.pdf)
+
+Others:
+
+- [ParsiNLU: A Suite of Language Understanding Challenges for Persian](https://arxiv.org/pdf/2012.06154)
