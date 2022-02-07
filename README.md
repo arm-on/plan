@@ -25,7 +25,7 @@ Deadlines:
   </tr>
     <tr>
     <td>Mihanwebhost</td>
-    <td><img src="http://gen.sendtric.com/countdown/xag1sgnhl9" style="display: block; height:50px" /></td>
+    <td><img src="http://gen.sendtric.com/countdown/z026br0pa4" style="display: block; height:50px" /></td>
     <td></td>
   </tr>
     <tr>
