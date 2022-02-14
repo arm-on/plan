@@ -48,7 +48,7 @@ Tasks:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-  - Writing a description for the TF-Linux Video
+  
 
 Ongoing:
 - [Work](ongoing/work.md)
