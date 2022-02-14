@@ -13,7 +13,7 @@
     - Linear Algebra :white_check_mark:
     - Machine Learning Theory :beer:
     - Information Theory
-    - Stochastic Processes
+    - Stochastic Processes :hammer:
     - Real Analysis 
 - Research
     - HuBERT paper (https://arxiv.org/pdf/2106.07447.pdf)
