@@ -7,13 +7,13 @@
 
 ## Research
 - Courses
-    - Probability and Statistics for Engineering :hammer:
+    - Probability and Statistics for Engineering :beer:
     - Math 1 & 2
     - Convex Optimization
     - Linear Algebra :white_check_mark:
-    - Machine Learning Theory :beer:
+    - Machine Learning Theory :hammer:
     - Information Theory
-    - Stochastic Processes :hammer:
+    - Stochastic Processes :beer:
     - Real Analysis 
 - Research
     - Reading papers for my PhD thesis
