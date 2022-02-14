@@ -1,21 +1,17 @@
 [Go Back](https://github.com/arm-on/plan/blob/main/README.md)
 # Long-term Tasks
 ## Dr. Motahari
-- High-Dimensional Statistics: a non-asymptotic viewpoint (Martin J. Wainwright)
-    - Status: Chap. 1 & 2 for this month
-    - Chapters 1,2,4,5,6,7 for the whole semester
 - Projects
     - Nokhbegan
-    - Mohaymen
-    - Shahrdari
+    - NLP
 
 ## Research
 - Courses
     - Probability and Statistics for Engineering :hammer:
     - Math 1 & 2
     - Convex Optimization
-    - Linear Algebra :beer:
-    - Machine Learning Theory
+    - Linear Algebra :white_check_mark:
+    - Machine Learning Theory :beer:
     - Information Theory
     - Stochastic Processes
     - Real Analysis 
@@ -27,10 +23,12 @@
 
 ## Languages 
 - German :hammer:
-    - Bamboo Channel [Link](https://www.youtube.com/watch?v=2w7JiKuNrQM&list=PLfvO0lX1t_WxJNjeKU1pj-dW4TDEZd_Lg)
+    - Busuu app
+    - [Bamboo Channel](https://www.youtube.com/watch?v=2w7JiKuNrQM&list=PLfvO0lX1t_WxJNjeKU1pj-dW4TDEZd_Lg)
+    - [Malekpour](https://malekpourmie.net/account/downloads/)
 - Dutch
     - Busuu app
-    - 
+    - [Learn Dutch with Kim](https://www.youtube.com/watch?v=Dbv79prOMEk&list=PLAeu18HndGgBR-QLw8b8Wzp0gLiVfCS7n&index=2)
 ## Sarbazi
 - I need two Q1 papers
 
