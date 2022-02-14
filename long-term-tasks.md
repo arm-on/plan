@@ -16,9 +16,7 @@
     - Stochastic Processes :hammer:
     - Real Analysis 
 - Research
-    - HuBERT paper (https://arxiv.org/pdf/2106.07447.pdf)
-    - CTC paper (https://www.cs.toronto.edu/~graves/icml_2006.pdf)
-    - XLM paper (https://arxiv.org/pdf/1901.07291.pdf)
+    - Reading papers for my PhD thesis
 
 
 ## Languages 
