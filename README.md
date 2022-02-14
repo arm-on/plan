@@ -55,14 +55,14 @@ Ongoing:
 - [Youtube](ongoing/youtube.md)
 - [Languages](ongoing/languages.md)
 - [Data Papers](ongoing/confpaper.md)
-  
+- [Machine Learning Theory](ongoing/mlt.md)
+
+
 On Hold:
 
 - Django (Next: Session 43)
 - [Cooking](ongoing/cooking.md)
-- [Machine Learning Theory](ongoing/mlt.md)
 - Docker
 - [Information Theory](ongoing/inf.md)
 - [Kaggle](ongoing/kaggle.md)
-- Divar+AUT AI Competition
 - Reading Papers to Write a Research Proposal for my PhD (Postponed until the end of the exams)
