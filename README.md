@@ -35,6 +35,13 @@ Deadlines:
   <td>23 Day, 1400</td>
   <td></td>
   </tr>
+  <tr>
+  <td>
+  Vaccination (3rd Dose)
+  </td>
+  <td>23 Day, 1400</td>
+  <td></td>
+  </tr>
 </table>
 
 Goals:
@@ -51,12 +58,12 @@ Tasks:
   
 
 Ongoing:
-- [Work](ongoing/work.md)
+
 - [Youtube](ongoing/youtube.md)
 - [Languages](ongoing/languages.md)
 - [Data Papers](ongoing/confpaper.md)
 - [Machine Learning Theory](ongoing/mlt.md)
-
+- Reading Papers to Write a Research Proposal for my PhD (Postponed until the end of the exams)
 
 On Hold:
 
@@ -65,4 +72,4 @@ On Hold:
 - Docker
 - [Information Theory](ongoing/inf.md)
 - [Kaggle](ongoing/kaggle.md)
-- Reading Papers to Write a Research Proposal for my PhD (Postponed until the end of the exams)
+- [Work](ongoing/work.md)
