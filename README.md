@@ -72,7 +72,7 @@ Ongoing
 
 On Hold:
 
-- Django (Next: Session 43)
+- Django
 - [Cooking](ongoing/cooking.md)
 - Docker
 - [Information Theory](ongoing/inf.md)
