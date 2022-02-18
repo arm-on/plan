@@ -96,6 +96,7 @@ On Hold:
     - joint distribution
     - correlation
     - Example of the Multivariate Normal Distribution
+- Schedule: 0/1 video per week (at least)
     
 ## AINT (Persian)
 - Channel Intro Video
@@ -105,7 +106,7 @@ On Hold:
 - Uncomplicated videos
   - What is Machine Learning?
   - 
-
+- Schedule: 2/3 videos per week (at least)
 # Languages
 
 ‌[Busuu Buy Link](https://license-market.ir/product/Busuu)
