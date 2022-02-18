@@ -2,7 +2,7 @@ Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.m
 
 Headlines:
 
-[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [Youtube](#youtube)
+[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [Youtube](#youtube) | [Languages](#languages)
 
 # Deadlines
 
@@ -105,3 +105,27 @@ On Hold:
 - Uncomplicated videos
   - What is Machine Learning?
   - 
+
+# Languages
+
+‌[Busuu Buy Link](https://license-market.ir/product/Busuu)
+
+emails: malekzadeh@ieee.org
+
+<table style="width:100%">
+  <tr>
+    <th>Language</th>
+    <th>Status</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td>German - Bamboo</td>
+    <td>Next: Lesson 1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dutch (Learn dutch with Kim on Youtube)</td>
+    <td>Being started</td>
+    <td></td>
+  </tr>
+</table>
