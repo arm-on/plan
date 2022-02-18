@@ -2,9 +2,9 @@ Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.m
 
 Headlines:
 
-[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [](#Thoughts)
+[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [Youtube](#youtube)
 
-## Deadlines
+# Deadlines
 
 <table style="width:100%">
   <tr>
@@ -48,18 +48,18 @@ Headlines:
   </tr>
 </table>
 
-## Goals
+# Goals
 - [Long-term](long-term-goals.md)
 - [Short-term](short-term-goals.md)
 
-## Rules
+# Rules
 - [General](rules-and-points.md)
 
-## Tasks
+# Tasks
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-
+  - 
   
 
 Ongoing
@@ -78,3 +78,24 @@ On Hold:
 - [Information Theory](ongoing/inf.md)
 - [Kaggle](ongoing/kaggle.md)
 - [Work](ongoing/work.md)
+
+# Youtube
+## AINT
+- Probability and Statistics
+    - Dirichlet distribution
+    - Marginal probability
+    - Covariance (p. 29)
+    - Central Limit Theorem
+    - Markov inequality
+    - Chebishev's ineq. 
+    - Law of large numbers
+    - MAP (parameter estimation)
+    - p-value
+    - confidence interval
+    - joint distribution
+    - correlation
+    - Example of the Multivariate Normal Distribution
+    
+## AINT (Persian)
+- ML Theory
+- 
