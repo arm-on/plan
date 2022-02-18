@@ -81,6 +81,7 @@ On Hold:
 
 # Youtube
 ## AINT
+- Channel Intro Video
 - Probability and Statistics
     - Dirichlet distribution
     - Marginal probability
@@ -97,5 +98,10 @@ On Hold:
     - Example of the Multivariate Normal Distribution
     
 ## AINT (Persian)
+- Channel Intro Video
 - ML Theory
-- 
+- Pytorch series
+- Tensorflow series
+- Uncomplicated videos
+  - What is Machine Learning?
+  - 
