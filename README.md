@@ -1,6 +1,10 @@
 Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.md) | [Temporary Note](https://github.com/arm-on/privateplans/blob/main/temp.md) |
 
-Deadlines:
+Headlines:
+
+[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks)
+
+## Deadlines
 
 <table style="width:100%">
   <tr>
@@ -44,20 +48,20 @@ Deadlines:
   </tr>
 </table>
 
-Goals:
+## Goals
 - [Long-term](long-term-goals.md)
 - [Short-term](short-term-goals.md)
 
-Rules:
+## Rules
 - [General](rules-and-points.md)
 
-Tasks:
+## Tasks
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
   
 
-Ongoing:
+Ongoing
 
 - [Youtube](ongoing/youtube.md)
 - [Languages](ongoing/languages.md)
@@ -73,3 +77,4 @@ On Hold:
 - [Information Theory](ongoing/inf.md)
 - [Kaggle](ongoing/kaggle.md)
 - [Work](ongoing/work.md)
+
