@@ -79,6 +79,13 @@ On Hold:
 - [Kaggle](ongoing/kaggle.md)
 - [Work](ongoing/work.md)
 
+# PhD Thesis
+- Papers to read:
+  - Stronger Data Poisoning Attacks Break Data Sanitization Defenses
+  - Predictive Inference with Weak Supervision
+  - In-n-out: Pre-traning and self-training using auxiliary information for out-of-distribution robustness
+
+
 # Youtube
 ## AINT
 - Channel Intro Video
