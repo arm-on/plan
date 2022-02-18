@@ -2,7 +2,7 @@ Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.m
 
 Headlines:
 
-[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [Youtube](#youtube) | [Languages](#languages)
+[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [Youtube](#youtube) | [Languages](#languages) | [DJ](#dj)
 
 # Deadlines
 
@@ -135,4 +135,3 @@ emails: malekzadeh@ieee.org
 # DJ
 - To do:
   - making a library of songs in different genres, having various rhythms (in Persian / English)
-  
