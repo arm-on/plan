@@ -131,3 +131,8 @@ emails: malekzadeh@ieee.org
     <td></td>
   </tr>
 </table>
+
+# DJ
+- To do:
+  - making a library of songs in different genres, having various rhythms (in Persian / English)
+  
