@@ -59,7 +59,6 @@ Headlines:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-  - 
   
 
 Ongoing
