@@ -65,7 +65,7 @@ Headlines:
   - Putting out the trash
   - Taking a shower
   - Brushing my teeth
-
+  - Shopping (online)
   
 
 Ongoing
