@@ -2,7 +2,7 @@ Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.m
 
 Headlines:
 
-[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks)
+[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) 
 
 ## Deadlines
 
@@ -59,6 +59,13 @@ Headlines:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
+- Regular / Daily: 
+  - Washing the dishes
+  - Cleaning the clothes
+  - Putting out the trash
+  - Taking a shower
+  - Brushing my teeth
+
   
 
 Ongoing
@@ -77,4 +84,3 @@ On Hold:
 - [Information Theory](ongoing/inf.md)
 - [Kaggle](ongoing/kaggle.md)
 - [Work](ongoing/work.md)
-
