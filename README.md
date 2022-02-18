@@ -59,13 +59,7 @@ Headlines:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-- Regular / Daily: 
-  - Washing the dishes
-  - Cleaning the clothes
-  - Putting out the trash
-  - Taking a shower
-  - Brushing my teeth
-  - Shopping (online)
+
   
 
 Ongoing
