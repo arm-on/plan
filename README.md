@@ -41,9 +41,9 @@ Headlines:
   </tr>
   <tr>
   <td>
-  Vaccination (3rd Dose)
+  Rakuten Viki
   </td>
-  <td>23 Day, 1400</td>
+  <td>17 Esfand</td>
   <td></td>
   </tr>
 </table>
