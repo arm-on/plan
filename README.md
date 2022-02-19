@@ -132,11 +132,9 @@ On Hold:
   - Simpler explanations of AI & ML concepts (for regular audience)
   - Youtube course announcements (e.g., High-dim Stats course released)
   - AI news
-## English
+## English (and also for the English facebook)
 - Youtube english course announcements
 - English version of the Persian content
-
-
 
 # Languages 
 
