@@ -69,6 +69,7 @@ Headlines:
 |ML Theory for YT - S1&2 (Re-upload)|30 Bahman|-|-|
 |Data poisoning paper (Read & Summarize)|1 Esfand|-|-|
 |Predictive Inference paper (Read & Summarize)|2 Esfand|-|-|
+|German Bamboo - Lesson 1|2 Esfand|-|-|
 |In-n-out paper (Read & Summarize)|3 Esfand|-|-|
 |Adding noise to the CV dataset|5 Esfand|-|-|
 |ML Theory for YT - S3|-|-|-|
