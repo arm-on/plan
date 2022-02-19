@@ -2,7 +2,7 @@ Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.m
 
 Headlines:
 
-[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [Youtube](#youtube) | [Languages](#languages) | [DJ](#dj)
+[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [PhD Thesis](#phd-thesis) | [Youtube](#youtube) | [Languages](#languages) | [DJ](#dj)
 
 # Deadlines
 
