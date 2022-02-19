@@ -63,10 +63,14 @@ Headlines:
 
 |Task|Deadline|Notes|Status|
 |-|-|-|-|
-|ML Theory for YT - S1|-|-|-|
-|ML Theory for YT - S2|-|-|-|
+|ML Theory for YT - S1&2 (Re-upload)|30 Bahman|-|-|
 |ML Theory for YT - S3|-|-|-|
+|ML Theory - S4|-|-|-|
+|ML Theory for YT - S4|-|-|-|
 |-|-|-|-|
+|-|-|-|-|
+|-|-|-|-|
+
 
 Status types: :white_check_mark:, :hammer:
 
