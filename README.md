@@ -60,6 +60,16 @@ Headlines:
 
 # Tasks
 [-Back to top-](#)
+
+|Task|Deadline|Notes|Status|
+|-|-|-|-|
+|ML Theory for YT - S1|-|-|-|
+|ML Theory for YT - S2|-|-|-|
+|ML Theory for YT - S2|-|-|-|
+|-|-|-|-|
+
+Status types: :white_check_mark:, :hammer:
+
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
