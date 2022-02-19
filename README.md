@@ -61,12 +61,17 @@ Headlines:
 # Tasks
 [-Back to top-](#)
 
+<!-- Calendar by www.1abzar.com --->
+<script type="text/javascript" src="http://1abzar.ir/abzar/tools/taghvim/?mod=1&abzar=1&kadr=1&kc=BBBBBB"></script><div style="display:none"><h2><a href="http://www.1abzar.com/abzar/taghvim.php">&#1578;&#1602;&#1608;&#1740;&#1605;</a></h2></div>
+<!-- Calendar by www.1abzar.com --->
+
 |Task|Deadline|Notes|Status|
 |-|-|-|-|
 |ML Theory for YT - S1&2 (Re-upload)|30 Bahman|-|-|
 |Data poisoning paper (Read & Summarize)|1 Esfand|-|-|
 |Predictive Inference paper (Read & Summarize)|2 Esfand|-|-|
 |In-n-out paper (Read & Summarize)|3 Esfand|-|-|
+|-|-|-|-|
 |ML Theory for YT - S3|-|-|-|
 |ML Theory - S4|-|-|-|
 |ML Theory for YT - S4|-|-|-|
