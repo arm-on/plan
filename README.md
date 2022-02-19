@@ -61,7 +61,7 @@ Headlines:
 # Tasks
 [-Back to top-](#)
 
-<noscript><a href="http://www.parstools.com/">تقویم جلالی</a></noscript><script src="http://code.parstools.com/?t=jc&type=1" language="javascript"></script>
+
 
 
 |Task|Deadline|Notes|Status|
