@@ -5,6 +5,7 @@ Headlines:
 [Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [PhD Thesis](#phd-thesis) | [Work](#work) | [Youtube](#youtube) | [Instagram](#instagram) | [Languages](#languages) | [DJ](#dj)
 
 # Deadlines
+[-Back to top-](#)
 
 <table style="width:100%">
   <tr>
@@ -49,13 +50,16 @@ Headlines:
 </table>
 
 # Goals
+[-Back to top-](#)
 - [Long-term](long-term-goals.md)
 - [Short-term](short-term-goals.md)
 
 # Rules
+[-Back to top-](#)
 - [General](rules-and-points.md)
 
 # Tasks
+[-Back to top-](#)
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
@@ -81,6 +85,7 @@ On Hold:
 - [Work](#work)
 
 # PhD Thesis
+[-Back to top-](#)
 - Papers to read:
   - Stronger Data Poisoning Attacks Break Data Sanitization Defenses
   - Predictive Inference with Weak Supervision
@@ -88,6 +93,7 @@ On Hold:
 
 
 # Youtube
+[-Back to top-](#)
 ## AINT
 - Channel Intro Video
 - Probability and Statistics
@@ -118,14 +124,16 @@ On Hold:
 - Schedule: 2/3 videos per week (at least)
 
 # Instagram
-
+[-Back to top-](#)
 ## Persian
 
 ## English
 
 
 
-# Languages
+# Languages 
+
+[-Back to top-](#)
 
 ‌[Busuu Buy Link](https://license-market.ir/product/Busuu)
 
@@ -150,14 +158,16 @@ emails: malekzadeh@ieee.org
 </table>
 
 # Work
+[-Back to top-](#)
 
 - Adding noise to the code run by ADM
 - 
 
 
 # DJ
+[-Back to top-](#)
 - To do:
   - making a library of songs in different genres, having various rhythms (in Persian / English)
 
 # Kaggle
-
+[-Back to top-](#)
