@@ -70,7 +70,7 @@ Headlines:
 |Data poisoning paper (Read & Summarize)|1 Esfand|-|-|
 |Predictive Inference paper (Read & Summarize)|2 Esfand|-|-|
 |In-n-out paper (Read & Summarize)|3 Esfand|-|-|
-|-|-|-|-|
+|Adding noise to the CV dataset|5 Esfand|-|-|
 |ML Theory for YT - S3|-|-|-|
 |ML Theory - S4|-|-|-|
 |ML Theory for YT - S4|-|-|-|
