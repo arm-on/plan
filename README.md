@@ -64,9 +64,9 @@ Headlines:
 Ongoing
 
 - [Youtube](#youtube)
-- [Languages](ongoing/languages.md)
+- [Languages](#languages)
 - [Data Papers](ongoing/confpaper.md)
-- [Machine Learning Theory](ongoing/mlt.md)
+- Machine Learning Theory
 - Reading Papers to Write a Research Proposal for my PhD (Postponed until the end of the exams)
 
 On Hold:
