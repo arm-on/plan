@@ -138,12 +138,12 @@ emails: malekzadeh@ieee.org
     <th>Note</th>
   </tr>
   <tr>
-    <td>German - Bamboo</td>
+    <td><a href="https://www.youtube.com/watch?v=2w7JiKuNrQM&list=PLfvO0lX1t_WxJNjeKU1pj-dW4TDEZd_Lg">German - Bamboo</a></td>
     <td>Next: Lesson 1</td>
     <td></td>
   </tr>
   <tr>
-    <td>Dutch (Learn dutch with Kim on Youtube)</td>
+    <td><a href="https://www.youtube.com/watch?v=Dbv79prOMEk&list=PLAeu18HndGgBR-QLw8b8Wzp0gLiVfCS7n&index=1">Dutch (Learn dutch with Kim on Youtube)</a></td>
     <td>Being started</td>
     <td></td>
   </tr>
