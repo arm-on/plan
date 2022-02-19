@@ -121,7 +121,7 @@ On Hold:
   - What is Machine Learning?
   - Interview Questions
   - 
-- Schedule: 2/3 videos per week (at least)
+- Schedule: 2/3 videos per week (at least) --> 1 ML-Theory video + 1 Pytorch/TF video + 1 simpler
 
 # Instagram
 [-Back to top-](#)
