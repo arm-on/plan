@@ -65,7 +65,7 @@ Headlines:
 |-|-|-|-|
 |ML Theory for YT - S1|-|-|-|
 |ML Theory for YT - S2|-|-|-|
-|ML Theory for YT - S2|-|-|-|
+|ML Theory for YT - S3|-|-|-|
 |-|-|-|-|
 
 Status types: :white_check_mark:, :hammer:
