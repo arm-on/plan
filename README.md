@@ -126,8 +126,15 @@ On Hold:
 # Instagram
 [-Back to top-](#)
 ## Persian
-
+- Hot topics:
+  - Application Introduction (e.g., task management apps)
+  - Tricks (tarfand)
+  - Simpler explanations of AI & ML concepts (for regular audience)
+  - Youtube course announcements (e.g., High-dim Stats course released)
+  - AI news
 ## English
+- Youtube english course announcements
+- English version of the Persian content
 
 
 
