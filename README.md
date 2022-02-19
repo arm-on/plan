@@ -61,7 +61,7 @@ Headlines:
 # Tasks
 [-Back to top-](#)
 
-![current month](curr-month.png =200x)
+<img src="curr-month.png" style="width:200px;display:block;margin-left: auto;margin-right: auto;width: 50%;">
 
 
 |Task|Deadline|Notes|Status|
