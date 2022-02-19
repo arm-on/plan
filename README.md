@@ -2,7 +2,7 @@ Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.m
 
 Headlines:
 
-[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [PhD Thesis](#phd-thesis) | [Work](#work) | [Youtube](#youtube) | [Languages](#languages) | [DJ](#dj)
+[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [PhD Thesis](#phd-thesis) | [Work](#work) | [Youtube](#youtube) | [Instagram](#instagram) | [Languages](#languages) | [DJ](#dj)
 
 # Deadlines
 
@@ -105,7 +105,7 @@ On Hold:
     - correlation
     - Example of the Multivariate Normal Distribution
 - Schedule: 0/1 video per week (at least)
-    
+
 ## AINT (Persian)
 - Channel Intro Video
 - ML Theory
@@ -116,6 +116,15 @@ On Hold:
   - Interview Questions
   - 
 - Schedule: 2/3 videos per week (at least)
+
+# Instagram
+
+## Persian
+
+## English
+
+
+
 # Languages
 
 ‌[Busuu Buy Link](https://license-market.ir/product/Busuu)
