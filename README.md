@@ -2,7 +2,7 @@ Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.m
 
 Headlines:
 
-[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [PhD Thesis](#phd-thesis) | [Youtube](#youtube) | [Languages](#languages) | [DJ](#dj)
+[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [PhD Thesis](#phd-thesis) | [Work](#work) | [Youtube](#youtube) | [Languages](#languages) | [DJ](#dj)
 
 # Deadlines
 
@@ -72,11 +72,12 @@ Ongoing
 On Hold:
 
 - Django
+- Android + Kotlin
 - [Cooking](ongoing/cooking.md)
 - Docker
 - [Information Theory](ongoing/inf.md)
 - [Kaggle](ongoing/kaggle.md)
-- [Work](ongoing/work.md)
+- [Work](#work)
 
 # PhD Thesis
 - Papers to read:
@@ -137,6 +138,12 @@ emails: malekzadeh@ieee.org
     <td></td>
   </tr>
 </table>
+
+# Work
+
+- Adding noise to the code run by ADM
+- 
+
 
 # DJ
 - To do:
