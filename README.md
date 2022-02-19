@@ -2,9 +2,9 @@ Links: [Private Plans](https://github.com/arm-on/privateplans/blob/main/README.m
 
 Headlines:
 
-[Deadlines](#deadlines) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [PhD Thesis](#phd-thesis) | [Work](#work) | [Youtube](#youtube) | [Instagram](#instagram) | [Languages](#languages) | [DJ](#dj)
+[Important Dates](#important-dates) | [Goals](#goals) | [Rules](#rules) | [Tasks](#tasks) | [PhD Thesis](#phd-thesis) | [Work](#work) | [Youtube](#youtube) | [Instagram](#instagram) | [Languages](#languages) | [DJ](#dj)
 
-# Deadlines
+# Important Dates
 [-Back to top-](#)
 
 <table style="width:100%">
