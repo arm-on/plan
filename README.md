@@ -68,6 +68,8 @@ Ongoing
 - [Data Papers](ongoing/confpaper.md)
 - Machine Learning Theory
 - Reading Papers to Write a Research Proposal for my PhD (Postponed until the end of the exams)
+- [Kaggle](#kaggle)
+
 
 On Hold:
 
@@ -76,7 +78,6 @@ On Hold:
 - [Cooking](ongoing/cooking.md)
 - Docker
 - [Information Theory](ongoing/inf.md)
-- [Kaggle](ongoing/kaggle.md)
 - [Work](#work)
 
 # PhD Thesis
@@ -148,3 +149,6 @@ emails: malekzadeh@ieee.org
 # DJ
 - To do:
   - making a library of songs in different genres, having various rhythms (in Persian / English)
+
+# Kaggle
+
