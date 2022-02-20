@@ -1,5 +1,14 @@
 [EMNLP 2020](https://aclanthology.org/volumes/2020.emnlp-main/) | [EMNLP 2021](https://aclanthology.org/volumes/2021.emnlp-main/)
 
+Ongoing:
+
+- [Content analysis of Persian/Farsi Tweets during COVID-19 pandemic in Iran using NLP](https://aclanthology.org/2020.nlpcovid19-2.26.pdf)
+
+
+- [ParsiNLU: A Suite of Language Understanding Challenges for Persian](https://arxiv.org/pdf/2012.06154)
+
+---
+
 - [Learning to Explain: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering](https://aclanthology.org/2020.emnlp-main.10.pdf)
 
 - [ProtoQA: A Question Answering Dataset for Prototypical Common-Sense Reasoning](https://aclanthology.org/2020.emnlp-main.85.pdf)
