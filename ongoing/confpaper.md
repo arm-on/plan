@@ -5,6 +5,9 @@ Ongoing:
 - [Content analysis of Persian/Farsi Tweets during COVID-19 pandemic in Iran using NLP](https://aclanthology.org/2020.nlpcovid19-2.26.pdf)
 
 
+- [ParsTwiNER: A Corpus for Named Entity Recognition at Informal Persian
+](https://aclanthology.org/2021.wnut-1.16.pdf)
+
 - [ParsiNLU: A Suite of Language Understanding Challenges for Persian](https://arxiv.org/pdf/2012.06154)
 
 ---
