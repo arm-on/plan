@@ -68,7 +68,7 @@ Headlines:
 |-|-|-|-|
 |ML Theory for YT - S1&2 (Re-upload)|30 Bahman|-|:white_check_mark:|
 |Data poisoning paper (Read & Summarize)|1 Esfand|Attacks remaining - Min-max, influence, and KKT|:hammer:|
-|Predictive Inference paper (Read & Summarize)|2 Esfand|-|-|
+|Predictive Inference paper (Read & Summarize)|2 Esfand|-|:hammer:|
 |German Bamboo - Lesson 1|2 Esfand|-|:white_check_mark:|
 |In-n-out paper (Read & Summarize)|3 Esfand|-|-|
 |Adding noise to the CV dataset|5 Esfand|-|-|
