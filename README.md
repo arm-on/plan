@@ -176,7 +176,7 @@ emails: malekzadeh@ieee.org
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=2w7JiKuNrQM&list=PLfvO0lX1t_WxJNjeKU1pj-dW4TDEZd_Lg">German - Bamboo</a></td>
-    <td>Next: Lesson 1</td>
+    <td>Next: Lesson 2</td>
     <td></td>
   </tr>
   <tr>
