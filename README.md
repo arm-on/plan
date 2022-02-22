@@ -74,7 +74,7 @@ Headlines:
 |In-n-out paper (Read & Summarize)|3 Esfand|-|-|
 |Adding noise to the CV dataset|5 Esfand|-|-|
 |Reading the [Data Papers](ongoing/confpaper.md)|7 Esfand|-|-|
-|ML Theory for YT - S3|-|-|-|
+|ML Theory for YT - S3|8 Esfand|-|-|
 |ML Theory - S4|-|-|-|
 |ML Theory for YT - S4|-|-|-|
 |-|-|-|-|
