@@ -73,8 +73,8 @@ Headlines:
 |Group Announcement (Record Voices)|3 Esfand|-|:white_check_mark:|
 |In-n-out paper (Read & Summarize)|3 Esfand|-|-|
 |Adding noise to the CV dataset|5 Esfand|-|-|
+|ML Theory for YT - S3|6 Esfand|-|-|
 |Reading the [Data Papers](ongoing/confpaper.md)|7 Esfand|-|-|
-|ML Theory for YT - S3|8 Esfand|-|-|
 |ML Theory - S4|-|-|-|
 |ML Theory for YT - S4|-|-|-|
 |-|-|-|-|
