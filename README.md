@@ -70,7 +70,7 @@ Headlines:
 |Data poisoning paper (Read & Summarize)|1 Esfand|Attacks remaining - Min-max, influence, and KKT|:hammer:|
 |Predictive Inference paper (Read & Summarize)|2 Esfand|-|:hammer:|
 |German Bamboo - Lesson 1|2 Esfand|-|:white_check_mark:|
-|Group Announcement (Record Voices)|3 Esfand|-|-|
+|Group Announcement (Record Voices)|3 Esfand|-|:white_check_mark:|
 |In-n-out paper (Read & Summarize)|3 Esfand|-|-|
 |Adding noise to the CV dataset|5 Esfand|-|-|
 |Reading the [Data Papers](ongoing/confpaper.md)|7 Esfand|-|-|
