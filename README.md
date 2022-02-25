@@ -47,6 +47,13 @@ Headlines:
   <td>17 Esfand</td>
   <td></td>
   </tr>
+  <tr>
+  <td>
+  IEEE
+  </td>
+  <td>31 December 2022</td>
+  <td></td>
+  </tr>
 </table>
 
 # Goals
