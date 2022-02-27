@@ -82,7 +82,7 @@ Headlines:
 |Adding noise to the CV dataset|5 Esfand|-|:x:|
 |ML Theory for YT - S3|6 Esfand|-|:white_check_mark:|
 |Reading the [Data Papers](ongoing/confpaper.md)|7 Esfand|-|:white_check_mark:|
-|ML Theory - S4|-|-|-|
+|ML Theory - S4|-|-|:white_check_mark:|
 |ML Theory for YT - S4|-|-|-|
 |Reading the In-n-Out Paper - Proofs|12 Esfand|-|-|
 |Try to defend against the novel data sanitization attacks (Find new papers)|12 Esfand|-|-|
