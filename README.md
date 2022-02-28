@@ -86,7 +86,7 @@ Headlines:
 |ML Theory for YT - S4|-|-|-|
 |Reading the In-n-Out Paper - Proofs|12 Esfand|-|-|
 |Try to defend against the novel data sanitization attacks (Find new papers)|12 Esfand|-|-|
-|Finding the structure of the crawled datasets|-|-|20 Esfand|
+|Finding the structure of the crawled datasets|20 Esfand|-|-|
 |-|-|-|-|
 |-|-|-|-|
 |-|-|-|-|
