@@ -54,6 +54,13 @@ Headlines:
   <td>31 December 2022</td>
   <td></td>
   </tr>
+  <tr>
+  <td>
+  Server HPC
+  </td>
+  <td>24 Esfand</td>
+  <td></td>
+  </tr>
 </table>
 
 # Goals
