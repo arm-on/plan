@@ -90,7 +90,8 @@ Headlines:
 |ML Theory for YT - S3|6 Esfand|-|:white_check_mark:|
 |Reading the [Data Papers](ongoing/confpaper.md)|7 Esfand|-|:white_check_mark:|
 |ML Theory - S4|-|-|:white_check_mark:|
-|ML Theory for YT - S4|-|-|-|
+|ML Theory for YT - S4|-|-|:white_check_mark:|
+|Buying Colab Pro for CH & RA|15 Esfand|-|-|
 |Reading the In-n-Out Paper - Proofs|15 Farvardin|-|-|
 |Try to defend against the novel data sanitization attacks (Find new papers)|15 Farvardin|-|-|
 |-|-|-|-|
