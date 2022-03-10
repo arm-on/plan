@@ -61,6 +61,14 @@ Headlines:
   <td>24 Esfand</td>
   <td></td>
   </tr>
+  </tr>
+  <tr>
+  <td>
+  Canva Monthly Subscription
+  </td>
+  <td>20 Esfand</td>
+  <td></td>
+  </tr>
 </table>
 
 # Goals
