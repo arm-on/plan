@@ -29,6 +29,11 @@ Headlines:
     <td></td>
   </tr>
     <tr>
+    <td>Django Host (HOSTIRAN)</td>
+    <td>1 Ordibehesht</td>
+    <td></td>
+  </tr>
+    <tr>
     <td>Mihanwebhost</td>
     <td>12 Farvardin</td>
     <td></td>
