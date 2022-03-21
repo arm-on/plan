@@ -49,7 +49,7 @@ Headlines:
   <td>
   Rakuten Viki
   </td>
-  <td>17 Esfand</td>
+  <td>-</td>
   <td></td>
   </tr>
   <tr>
