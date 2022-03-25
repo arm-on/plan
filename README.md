@@ -97,7 +97,7 @@ Headlines:
 |ML Theory - S4|-|-|:white_check_mark:|
 |ML Theory for YT - S4|-|-|:white_check_mark:|
 |Buying Colab Pro for CH & RA|15 Esfand|-|:white_check_mark:|
-|Checking the SOTA for tasks related to our new dataset|5 Farvardin|-|-|
+|Checking the SOTA for tasks related to our new dataset|5 Farvardin|-|:white_check_mark:|
 |بررسی اصول نورپردازی|15 Farvardin|-|-|
 |Reading the In-n-Out Paper - Proofs|15 Farvardin|-|:hammer:|
 |Try to defend against the novel data sanitization attacks (Find new papers)|15 Farvardin|-|-|
