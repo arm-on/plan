@@ -110,7 +110,7 @@ Ongoing
 - [Youtube](#youtube)
 - [Languages](#languages)
 - [Data Papers](ongoing/confpaper.md)
-- Machine Learning Theory
+- Convex Optimization
 - Reading Papers to Write a Research Proposal for my PhD (Postponed until the end of the exams)
 - [Kaggle](#kaggle)
 
