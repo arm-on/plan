@@ -118,7 +118,6 @@ Ongoing
 On Hold:
 
 - Django
-- Android + Kotlin
 - [Cooking](ongoing/cooking.md)
 - Docker
 - [Information Theory](ongoing/inf.md)
