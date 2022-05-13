@@ -103,25 +103,8 @@ Status types: :white_check_mark:, :hammer:, :x:
 - [Long-term](long-term-tasks.md)
 - [Short-term](short-term-tasks.md)
 - Temporary
-  
-
-Ongoing
-
-- [Youtube](#youtube)
-- [Languages](#languages)
-- [Data Papers](ongoing/confpaper.md)
-- Convex Optimization
-- Reading Papers to Write a Research Proposal for my PhD (Postponed until the end of the exams)
-- [Kaggle](#kaggle)
 
 
-On Hold:
-
-- Django
-- [Cooking](ongoing/cooking.md)
-- Docker
-- [Information Theory](ongoing/inf.md)
-- [Work](#work)
 
 # PhD Thesis
 [-Back to top-](#)
