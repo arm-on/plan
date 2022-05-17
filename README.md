@@ -173,13 +173,13 @@ emails: malekzadeh@ieee.org
     <th>Note</th>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=2w7JiKuNrQM&list=PLfvO0lX1t_WxJNjeKU1pj-dW4TDEZd_Lg">German - Bamboo</a></td>
-    <td>Next: Lesson 2</td>
+    <td><a href="https://www.youtube.com/watch?v=2w7JiKuNrQM&list=PLfvO0lX1t_WxJNjeKU1pj-dW4TDEZd_Lg">German - Malekpour</a></td>
+    <td>Ongoing</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=Dbv79prOMEk&list=PLAeu18HndGgBR-QLw8b8Wzp0gLiVfCS7n&index=1">Dutch (Learn dutch with Kim on Youtube)</a></td>
-    <td>Being started</td>
+    <td><a href="https://www.youtube.com/watch?v=Dbv79prOMEk&list=PLAeu18HndGgBR-QLw8b8Wzp0gLiVfCS7n&index=1">Dutch (Laura-Udemy)</a></td>
+    <td>Ongoing</td>
     <td></td>
   </tr>
 </table>
@@ -187,14 +187,14 @@ emails: malekzadeh@ieee.org
 # Work
 [-Back to top-](#)
 
-- Adding noise to the code run by ADM
-- 
+
 
 
 # DJ
 [-Back to top-](#)
 - To do:
-  - making a library of songs in different genres, having various rhythms (in Persian / English)
+  - Watching the DJ Course
 
 # Kaggle
 [-Back to top-](#)
+
