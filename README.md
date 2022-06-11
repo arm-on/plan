@@ -15,10 +15,9 @@
 |-|-|-|
 | Microsoft Azure Fundamentals | Coursera | Job Advertisements Mention it + It makes me special within the candidates |
 | Amazon AWS | ? | Job Advertisements Mention it + It makes me special within the candidates |
+| MLOps | Coursera-Andrew | Job Advertisements Mention it + It makes me special within the candidates |
 | Tensorflow | Microsoft Course + Kaggle | Obviously Required |
 | Pytorch | Microsoft Course + Kaggle | Obviously Required |
-| Neural Network Theory | Deep Learning by Goodfellow | Writing Academic Papers |
-| Deep Learning Theory | Ioannis Course | Writing Academic Papers |
 | Django | Different Sources + My own Summary | I'm good at web development + It expands my job opportunities |
 
 # Youtube Upcoming Courses
