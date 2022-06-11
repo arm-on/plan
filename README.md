@@ -6,6 +6,3 @@
 | Neural Network Theory | Deep Learning by Goodfellow | Writing Academic Papers |
 | Linear Algebra | Deep Learning by Goodfellow | Proof (i.e., norms, vectors, tensors) |
 | Probability & Statistics | Deep Learning by Goodfellow (Probability) + Sharifi Zarchi (Summarization) | Proofs (i.e., distributions and random variables) |
-|-|-|-|
-|-|-|-|
-|-|-|-|
