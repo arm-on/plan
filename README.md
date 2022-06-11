@@ -30,3 +30,11 @@
 - Mathetmatics for Machine Learning (Linear Algebra, Real Analysis, and Probability Review)
 - Django
 - PySpark
+
+# Fantasies able to become reality
+- CTAB App (Django)
+- Transactional Analysis (Udemy)
+- DJ Course (Udemy)
+
+# If I have too much time
+- Information Theory (McKay)
