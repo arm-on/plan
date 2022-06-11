@@ -84,6 +84,7 @@
 | Country/Region/City | Population | Population/Area Ratio | Weather | Flight | Permanent Residence | Passport | Enter with family | GDP Per Capita
 |-|-|-|-|-|-|-|-|-|
 
+Note: To find the source of each box, just click on it.
 
 
 [TOC](#table-of-contents)
