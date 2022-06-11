@@ -20,8 +20,10 @@
 | Pytorch | Microsoft Course + Kaggle | Obviously Required |
 | Computer Vision | Kaggle + Microsoft Courses | Most of the advertisements are about computer vision, not NLP! |
 | Django | Different Sources + My own Summary | I'm good at web development + It expands my job opportunities |
+| Interview Questions | Everywhere | Interview can go wrong even if I know a lot of things. So I should imagine that day, and prepare myself for it! |
 
 # Youtube Upcoming Courses
 - Tensorflow
 - ML Competitions (Kaggle)
 - Django
+- PySpark
