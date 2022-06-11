@@ -1,4 +1,5 @@
-Table of Contents
+# Table of Contents
+- [Table of Contents](#table-of-contents)
 - [To be learned](#to-be-learned)
   - [Academic Courses](#academic-courses)
   - [Needed for Work](#needed-for-work)
@@ -19,6 +20,8 @@ Table of Contents
 | Linear Algebra | Deep Learning by Goodfellow | Proof (i.e., norms, vectors, tensors) |
 | Probability & Statistics | Deep Learning by Goodfellow (Probability) + Sharifi Zarchi (Summarization) | Proofs (i.e., distributions and random variables) |
 
+[TOC](#table-of-contents)
+
 ## Needed for Work
 
 | Name | Source | Goal/Reason |
@@ -36,6 +39,8 @@ Table of Contents
 | Agile Methodology + Scrum | ? | Needed to work with a team |
 | Resume Writing Techniques / Cover Letter / etc. | Everywhere | Increases the probability of being hired |
 
+[TOC](#table-of-contents)
+
 ## Youtube Upcoming Courses
 - Tensorflow
 - ML Competitions (Kaggle)
@@ -44,6 +49,8 @@ Table of Contents
 - Django
 - PySpark
 
+[TOC](#table-of-contents)
+
 ## Possible Fantasies!
 - CTAB App (Django)
 - Transactional Analysis (Udemy)
@@ -51,9 +58,13 @@ Table of Contents
 - Clean Code (Book: Clean Code in Python)
 - Design Patterns (Book: Mastering Python Design Patterns)
 
+[TOC](#table-of-contents)
+
 ## If I have too much time
 - Algorithm & Data Structures
 - Information Theory (McKay)
+
+[TOC](#table-of-contents)
 
 # Rules
 1. If everything is finished, review.
@@ -64,4 +75,7 @@ Table of Contents
 6. Make your goals "Measurable". Example: Instead of "I wanna be a good student", say "I want my GPA to be at least 18", "For that, I need every course's grade to be at least 18", "To get an 18 in each course, I should do blah blah blah".
 7. If you failed to do a task on time, do it at most after 4 or 5 days.
 
+[TOC](#table-of-contents)
+
 # Migration Comparison
+[TOC](#table-of-contents)
