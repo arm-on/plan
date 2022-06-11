@@ -81,4 +81,9 @@
 [TOC](#table-of-contents)
 
 # Migration Comparison
+| Country/Region/City | Population | Population/Area Ratio | Weather | Flight | Permanent Residence | Passport | Enter with family | 
+|-|-|-|-|-|-|-|-|
+
+
+
 [TOC](#table-of-contents)
