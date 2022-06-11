@@ -21,6 +21,7 @@
 | Computer Vision | Kaggle + Microsoft Courses | Most of the advertisements are about computer vision, not NLP! |
 | Django | Different Sources + My own Summary | I'm good at web development + It expands my job opportunities |
 | Interview Questions | Everywhere | Interview can go wrong even if I know a lot of things. So I should imagine that day, and prepare myself for it! |
+| Agile Methodology + Scrum | ? | Needed to work with a team |
 | Resume Writing Techniques / Cover Letter / etc. | Everywhere | Increases the probability of being hired |
 
 # Youtube Upcoming Courses
@@ -35,6 +36,8 @@
 - CTAB App (Django)
 - Transactional Analysis (Udemy)
 - DJ Course (Udemy)
+- 
 
 # If I have too much time
+- Algorithm & Data Structures
 - Information Theory (McKay)
