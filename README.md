@@ -18,17 +18,10 @@
 | MLOps | Coursera-Andrew | Job Advertisements Mention it + It makes me special within the candidates |
 | Tensorflow | Microsoft Course + Kaggle | Obviously Required |
 | Pytorch | Microsoft Course + Kaggle | Obviously Required |
+| Computer Vision | Kaggle + Microsoft Courses | Most of the advertisements are about computer vision, not NLP! |
 | Django | Different Sources + My own Summary | I'm good at web development + It expands my job opportunities |
 
 # Youtube Upcoming Courses
-
-| Name | Source | Goal |
-|-|-|-|
-| Microsoft Azure Fundamentals | Coursera | Job Advertisements Mention it + It makes me special within the candidates |
-| Amazon AWS | ? | Job Advertisements Mention it + It makes me special within the candidates |
-| Tensorflow | Microsoft Course + Kaggle | Obviously Required |
-| Pytorch | Microsoft Course + Kaggle | Obviously Required |
-| Neural Network Theory | Deep Learning by Goodfellow | Writing Academic Papers |
-| Deep Learning Theory | Ioannis Course | Writing Academic Papers |
-| Linear Algebra | Deep Learning by Goodfellow | Proof (i.e., norms, vectors, tensors) |
-| Probability & Statistics | Deep Learning by Goodfellow (Probability) + Sharifi Zarchi (Summarization) | Proofs (i.e., distributions and random variables) |
+- Tensorflow
+- ML Competitions (Kaggle)
+- Django
