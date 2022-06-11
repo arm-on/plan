@@ -1,4 +1,4 @@
-# Academic Courses
+## Academic Courses
 
 | Name | Source | Goal/Reason |
 |-|-|-|
@@ -9,10 +9,11 @@
 | Linear Algebra | Deep Learning by Goodfellow | Proof (i.e., norms, vectors, tensors) |
 | Probability & Statistics | Deep Learning by Goodfellow (Probability) + Sharifi Zarchi (Summarization) | Proofs (i.e., distributions and random variables) |
 
-# Needed for Work
+## Needed for Work
 
 | Name | Source | Goal/Reason |
 |-|-|-|
+| English | TPO+GRE+IELTS Cambridge / Making sentences with phrasal verbs / Speaking Practice with the 1212 |
 | Microsoft Azure Fundamentals | Coursera | Job Advertisements Mention it + It makes me special within the candidates |
 | Amazon AWS | ? | Job Advertisements Mention it + It makes me special within the candidates |
 | MLOps | Coursera-Andrew | Job Advertisements Mention it + It makes me special within the candidates |
@@ -25,7 +26,7 @@
 | Agile Methodology + Scrum | ? | Needed to work with a team |
 | Resume Writing Techniques / Cover Letter / etc. | Everywhere | Increases the probability of being hired |
 
-# Youtube Upcoming Courses
+## Youtube Upcoming Courses
 - Tensorflow
 - ML Competitions (Kaggle)
 - DL Theory
@@ -33,14 +34,16 @@
 - Django
 - PySpark
 
-# Possible Fantasies!
+## Possible Fantasies!
 - CTAB App (Django)
 - Transactional Analysis (Udemy)
 - DJ Course (Udemy)
 - Clean Code (Book: Clean Code in Python)
 - Design Patterns (Book: Mastering Python Design Patterns)
 
-# If I have too much time
+## If I have too much time
 - Algorithm & Data Structures
 - Information Theory (McKay)
-- 
+
+# Rules
+1. If everything is finished, 
