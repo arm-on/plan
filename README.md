@@ -1,3 +1,13 @@
+Table of Contents
+- [To be learned](#to-be-learned)
+  - [Academic Courses](#academic-courses)
+  - [Needed for Work](#needed-for-work)
+  - [Youtube Upcoming Courses](#youtube-upcoming-courses)
+  - [Possible Fantasies!](#possible-fantasies)
+  - [If I have too much time](#if-i-have-too-much-time)
+- [Rules](#rules)
+- [Migration Comparison](#migration-comparison)
+# To be learned
 ## Academic Courses
 
 | Name | Source | Goal/Reason |
