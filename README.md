@@ -52,5 +52,6 @@
 4. The main tasks of my day should be: Language Learning + Paper Reading
 5. Have a small notebook. While reading, write your unrelated thoughts inside it. (For better concentration)
 6. Make your goals "Measurable". Example: Instead of "I wanna be a good student", say "I want my GPA to be at least 18", "For that, I need every course's grade to be at least 18", "To get an 18 in each course, I should do blah blah blah".
+7. If you failed to do a task on time, do it at most after 4 or 5 days.
 
 # Migration Comparison
