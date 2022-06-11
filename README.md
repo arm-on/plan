@@ -26,7 +26,9 @@
 
 | Name | Source | Goal/Reason |
 |-|-|-|
-| English | TPO+GRE+IELTS Cambridge / Making sentences with phrasal verbs / Speaking Practice with the 1212 |
+| English | TPO+GRE+IELTS Cambridge / Making sentences with phrasal verbs / Speaking Practice with the 1212 | Obviously Required |
+| German | Malekpour | Needed to work in Germany |
+| Dutch | Laura (Udemy) | Needed to live in Netherlands |
 | Microsoft Azure Fundamentals | Coursera | Job Advertisements Mention it + It makes me special within the candidates |
 | Amazon AWS | ? | Job Advertisements Mention it + It makes me special within the candidates |
 | MLOps | Coursera-Andrew | Job Advertisements Mention it + It makes me special within the candidates |
@@ -63,6 +65,7 @@
 ## If I have too much time
 - Algorithm & Data Structures
 - Information Theory (McKay)
+- Stochastic Processes
 
 [TOC](#table-of-contents)
 
