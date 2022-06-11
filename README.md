@@ -46,4 +46,11 @@
 - Information Theory (McKay)
 
 # Rules
-1. If everything is finished, 
+1. If everything is finished, review.
+2. I should have a portfolio containing some open-source projects.
+3. I should be aware of the best papers of AI conferences published each year.
+4. The main tasks of my day should be: Language Learning + Paper Reading
+5. Have a small notebook. While reading, write your unrelated thoughts inside it. (For better concentration)
+6. Make your goals "Measurable". Example: Instead of "I wanna be a good student", say "I want my GPA to be at least 18", "For that, I need every course's grade to be at least 18", "To get an 18 in each course, I should do blah blah blah".
+
+# Migration Comparison
