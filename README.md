@@ -16,6 +16,7 @@
 | Microsoft Azure Fundamentals | Coursera | Job Advertisements Mention it + It makes me special within the candidates |
 | Amazon AWS | ? | Job Advertisements Mention it + It makes me special within the candidates |
 | MLOps | Coursera-Andrew | Job Advertisements Mention it + It makes me special within the candidates |
+| Docker | ? | Needed according to job advertisements |
 | Tensorflow | Microsoft Course + Kaggle | Obviously Required |
 | Pytorch | Microsoft Course + Kaggle | Obviously Required |
 | Computer Vision | Kaggle + Microsoft Courses | Most of the advertisements are about computer vision, not NLP! |
@@ -32,12 +33,14 @@
 - Django
 - PySpark
 
-# Fantasies able to become reality
+# Possible Fantasies!
 - CTAB App (Django)
 - Transactional Analysis (Udemy)
 - DJ Course (Udemy)
-- 
+- Clean Code (Book: Clean Code in Python)
+- Design Patterns (Book: Mastering Python Design Patterns)
 
 # If I have too much time
 - Algorithm & Data Structures
 - Information Theory (McKay)
+- 
