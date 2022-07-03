@@ -82,7 +82,7 @@
 
 # Migration Comparison
 | Country/Region/City | Population | Population/Area Ratio | Weather | Flight | Permanent Residence | Passport | Enter with family | GDP Per Capita
-|-|-|-|-|-|-|-|-|-|
+| Germany - Munich |-|-|-|-|-|-|-|-|
 
 Note: To find the source of the information written inside each box, just click on it.
 
