@@ -90,6 +90,10 @@
 | Canada - Toronto |-|-|-|-|-|-|-|-|
 | Canada - Vancouver |-|-|-|-|-|-|-|-|
 | Germany - Frankfurt |-|-|-|-|-|-|-|-|
+| Switzerland - Lugano |-|-|-|-|-|-|-|-|
+| Switzerland - Zurich |-|-|-|-|-|-|-|-|
+| Switzerland - Lausanne |-|-|-|-|-|-|-|-|
+| Belgium - Brussels |-|-|-|-|-|-|-|-|
 | Austria - Vienna |-|-|-|-|-|-|-|-|
 
 Note: To find the source of the information written inside each box, just click on it.
