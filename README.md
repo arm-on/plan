@@ -94,6 +94,8 @@
 | Switzerland - Zurich |-|-|-|-|-|-|-|-|
 | Switzerland - Lausanne |-|-|-|-|-|-|-|-|
 | Belgium - Brussels |-|-|-|-|-|-|-|-|
+| Belgium - Ghent |-|-|-|-|-|-|-|-|
+| Belgium - Antwerp |-|-|-|-|-|-|-|-|
 | Austria - Vienna |-|-|-|-|-|-|-|-|
 
 Note: To find the source of the information written inside each box, just click on it.
