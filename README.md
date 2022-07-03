@@ -49,6 +49,7 @@
 - Mathetmatics for Machine Learning (Linear Algebra, Real Analysis, and Probability Review)
 - Django
 - PySpark
+- Azure
 
 [TOC](#table-of-contents)
 
