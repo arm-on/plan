@@ -89,6 +89,7 @@
 | France - Paris |-|-|-|-|-|-|-|-|
 | Canada - Toronto |-|-|-|-|-|-|-|-|
 | Canada - Vancouver |-|-|-|-|-|-|-|-|
+| Canada - Ottawa |-|-|-|-|-|-|-|-|
 | Germany - Frankfurt |-|-|-|-|-|-|-|-|
 | Switzerland - Lugano |-|-|-|-|-|-|-|-|
 | Switzerland - Zurich |-|-|-|-|-|-|-|-|
