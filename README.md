@@ -85,6 +85,7 @@
 |-|-|-|-|-|-|-|-|-|
 | Germany - Munich |-|-|-|-|-|-|-|-|
 | Germany - Berlin |-|-|-|-|-|-|-|-|
+| England - London |-|-|-|-|-|-|-|-|
 | Austria - Vienna |-|-|-|-|-|-|-|-|
 
 Note: To find the source of the information written inside each box, just click on it.
