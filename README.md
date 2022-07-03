@@ -85,13 +85,18 @@
 |-|-|-|-|-|-|-|-|-|
 | Germany - Munich |-|-|-|-|-|-|-|-|
 | Germany - Berlin |-|-|-|-|-|-|-|-|
+| Germany - Frankfurt |-|-|-|-|-|-|-|-|
+| Germany - Dusseldorf |-|-|-|-|-|-|-|-|
 | England - London |-|-|-|-|-|-|-|-|
 | England - Manchester |-|-|-|-|-|-|-|-|
+| England - Oxford |-|-|-|-|-|-|-|-|
 | France - Paris |-|-|-|-|-|-|-|-|
 | Canada - Toronto |-|-|-|-|-|-|-|-|
 | Canada - Vancouver |-|-|-|-|-|-|-|-|
 | Canada - Ottawa |-|-|-|-|-|-|-|-|
-| Germany - Frankfurt |-|-|-|-|-|-|-|-|
+| Canada - Montreal |-|-|-|-|-|-|-|-|
+| Switzerland - Geneva |-|-|-|-|-|-|-|-|
+| Switzerland - Basel |-|-|-|-|-|-|-|-|
 | Switzerland - Lugano |-|-|-|-|-|-|-|-|
 | Switzerland - Zurich |-|-|-|-|-|-|-|-|
 | Switzerland - Lausanne |-|-|-|-|-|-|-|-|
