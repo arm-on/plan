@@ -86,6 +86,7 @@
 | Germany - Munich |-|-|-|-|-|-|-|-|
 | Germany - Berlin |-|-|-|-|-|-|-|-|
 | England - London |-|-|-|-|-|-|-|-|
+| England - Manchester |-|-|-|-|-|-|-|-|
 | France - Paris |-|-|-|-|-|-|-|-|
 | Canada - Toronto |-|-|-|-|-|-|-|-|
 | Canada - Vancouver |-|-|-|-|-|-|-|-|
