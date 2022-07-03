@@ -106,6 +106,10 @@
 | Belgium - Ghent |-|-|-|-|-|-|-|-|
 | Belgium - Antwerp |-|-|-|-|-|-|-|-|
 | Austria - Vienna |-|-|-|-|-|-|-|-|
+| Netherlands - Amsterdam |-|-|-|-|-|-|-|-|
+| Netherlands - Delft |-|-|-|-|-|-|-|-|
+| Netherlands - Utrecht |-|-|-|-|-|-|-|-|
+| Netherlands - Rotterdam |-|-|-|-|-|-|-|-|
 
 Note: To find the source of the information written inside each box, just click on it.
 
