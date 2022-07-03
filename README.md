@@ -44,7 +44,6 @@
 [TOC](#table-of-contents)
 
 ## Youtube Upcoming Courses
-- Tensorflow
 - ML Competitions (Kaggle)
 - DL Theory
 - Mathetmatics for Machine Learning (Linear Algebra, Real Analysis, and Probability Review)
