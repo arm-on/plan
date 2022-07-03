@@ -89,6 +89,7 @@
 | France - Paris |-|-|-|-|-|-|-|-|
 | Canada - Toronto |-|-|-|-|-|-|-|-|
 | Canada - Vancouver |-|-|-|-|-|-|-|-|
+| Germany - Frankfurt |-|-|-|-|-|-|-|-|
 | Austria - Vienna |-|-|-|-|-|-|-|-|
 
 Note: To find the source of the information written inside each box, just click on it.
