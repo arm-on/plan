@@ -87,6 +87,8 @@
 | Germany - Berlin |-|-|-|-|-|-|-|-|
 | Germany - Frankfurt |-|-|-|-|-|-|-|-|
 | Germany - Dusseldorf |-|-|-|-|-|-|-|-|
+| Germany - Hamburg |-|-|-|-|-|-|-|-|
+| Germany - Stuttgart |-|-|-|-|-|-|-|-|
 | England - London |-|-|-|-|-|-|-|-|
 | England - Manchester |-|-|-|-|-|-|-|-|
 | England - Oxford |-|-|-|-|-|-|-|-|
