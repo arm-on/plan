@@ -84,7 +84,7 @@
 | Country/Region/City | Population | Population/Area Ratio | Weather | Flight | Permanent Residence | Passport | Enter with family | GDP Per Capita
 |-|-|-|-|-|-|-|-|-|
 | Germany - Munich | 1.472 M |-|-|-|-|-|-|-|
-| Germany - Berlin |-|-|-|-|-|-|-|-|
+| Germany - Berlin | 3.645 M |-|-|-|-|-|-|-|
 | Germany - Frankfurt |-|-|-|-|-|-|-|-|
 | Germany - Dusseldorf |-|-|-|-|-|-|-|-|
 | Germany - Hamburg |-|-|-|-|-|-|-|-|
