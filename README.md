@@ -96,7 +96,7 @@
 | Canada - Toronto | 2.93 M |-|-|-|-|-|-|-|
 | Canada - Vancouver | 675 K |-|-|-|-|-|-|-|
 | Canada - Ottawa | 995 K |-|-|-|-|-|-|-|
-| Canada - Montreal |-|-|-|-|-|-|-|-|
+| Canada - Montreal | 1.78 M |-|-|-|-|-|-|-|
 | Switzerland - Geneva |-|-|-|-|-|-|-|-|
 | Switzerland - Basel |-|-|-|-|-|-|-|-|
 | Switzerland - Lugano |-|-|-|-|-|-|-|-|
