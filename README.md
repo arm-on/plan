@@ -102,8 +102,8 @@
 | Switzerland - Lugano | 64 K |-|-|-|-|-|-|-|
 | Switzerland - Zurich | 403 K |-|-|-|-|-|-|-|
 | Switzerland - Lausanne | 138 K |-|-|-|-|-|-|-|
-| Belgium - Brussels |-|-|-|-|-|-|-|-|
-| Belgium - Ghent |-|-|-|-|-|-|-|-|
+| Belgium - Brussels | 2.06 M |-|-|-|-|-|-|-|
+| Belgium - Ghent | 262 K |-|-|-|-|-|-|-|
 | Belgium - Antwerp |-|-|-|-|-|-|-|-|
 | Austria - Vienna |-|-|-|-|-|-|-|-|
 | Netherlands - Amsterdam |-|-|-|-|-|-|-|-|
