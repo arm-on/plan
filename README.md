@@ -94,7 +94,7 @@
 | England - Oxford | 152 K |-|-|-|-|-|-|-|
 | France - Paris | 2.161 M |-|-|-|-|-|-|-|
 | Canada - Toronto | 2.93 M |-|-|-|-|-|-|-|
-| Canada - Vancouver |-|-|-|-|-|-|-|-|
+| Canada - Vancouver | 675 K |-|-|-|-|-|-|-|
 | Canada - Ottawa |-|-|-|-|-|-|-|-|
 | Canada - Montreal |-|-|-|-|-|-|-|-|
 | Switzerland - Geneva |-|-|-|-|-|-|-|-|
