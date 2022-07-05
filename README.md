@@ -104,7 +104,7 @@
 | Switzerland - Lausanne | 138 K |-|-|-|-|-|-|-|
 | Belgium - Brussels | 2.06 M |-|-|-|-|-|-|-|
 | Belgium - Ghent | 262 K |-|-|-|-|-|-|-|
-| Belgium - Antwerp | 506 K |-|-|-|-|-|-|-|
+| Belgium - Antwerp | 507 K |-|-|-|-|-|-|-|
 | Austria - Vienna |-|-|-|-|-|-|-|-|
 | Netherlands - Amsterdam |-|-|-|-|-|-|-|-|
 | Netherlands - Delft |-|-|-|-|-|-|-|-|
