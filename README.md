@@ -95,7 +95,7 @@
 | France - Paris | 2.161 M |-|-|-|-|-|-|-|
 | Canada - Toronto | 2.93 M |-|-|-|-|-|-|-|
 | Canada - Vancouver | 675 K |-|-|-|-|-|-|-|
-| Canada - Ottawa |-|-|-|-|-|-|-|-|
+| Canada - Ottawa | 995 K |-|-|-|-|-|-|-|
 | Canada - Montreal |-|-|-|-|-|-|-|-|
 | Switzerland - Geneva |-|-|-|-|-|-|-|-|
 | Switzerland - Basel |-|-|-|-|-|-|-|-|
