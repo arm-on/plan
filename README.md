@@ -101,7 +101,7 @@
 | Switzerland - Basel | 171 K |-|-|-|-|-|-|-|
 | Switzerland - Lugano | 64 K |-|-|-|-|-|-|-|
 | Switzerland - Zurich | 403 K |-|-|-|-|-|-|-|
-| Switzerland - Lausanne |-|-|-|-|-|-|-|-|
+| Switzerland - Lausanne | 138 K |-|-|-|-|-|-|-|
 | Belgium - Brussels |-|-|-|-|-|-|-|-|
 | Belgium - Ghent |-|-|-|-|-|-|-|-|
 | Belgium - Antwerp |-|-|-|-|-|-|-|-|
