@@ -107,7 +107,7 @@
 | Belgium - Antwerp | 507 K |-|-|-|-|-|-|-|
 | Austria - Vienna | 1.897 M |-|-|-|-|-|-|-|
 | Netherlands - Amsterdam | 822 K |-|-|-|-|-|-|-|
-| Netherlands - Delft |-|-|-|-|-|-|-|-|
+| Netherlands - Delft | 101 K |-|-|-|-|-|-|-|
 | Netherlands - Utrecht |-|-|-|-|-|-|-|-|
 | Netherlands - Rotterdam |-|-|-|-|-|-|-|-|
 
