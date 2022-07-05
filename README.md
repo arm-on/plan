@@ -89,7 +89,7 @@
 | Germany - Dusseldorf | 619 K |-|-|-|-|-|-|-|
 | Germany - Hamburg | 1.841 M |-|-|-|-|-|-|-|
 | Germany - Stuttgart | 634 K |-|-|-|-|-|-|-|
-| England - London |-|-|-|-|-|-|-|-|
+| England - London | 8.982 M |-|-|-|-|-|-|-|
 | England - Manchester |-|-|-|-|-|-|-|-|
 | England - Oxford |-|-|-|-|-|-|-|-|
 | France - Paris |-|-|-|-|-|-|-|-|
