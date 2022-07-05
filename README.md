@@ -93,7 +93,7 @@
 | England - Manchester | 553 K |-|-|-|-|-|-|-|
 | England - Oxford | 152 K |-|-|-|-|-|-|-|
 | France - Paris | 2.161 M |-|-|-|-|-|-|-|
-| Canada - Toronto |-|-|-|-|-|-|-|-|
+| Canada - Toronto | 2.93 M |-|-|-|-|-|-|-|
 | Canada - Vancouver |-|-|-|-|-|-|-|-|
 | Canada - Ottawa |-|-|-|-|-|-|-|-|
 | Canada - Montreal |-|-|-|-|-|-|-|-|
