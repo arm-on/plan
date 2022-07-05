@@ -108,7 +108,7 @@
 | Austria - Vienna | 1.897 M |-|-|-|-|-|-|-|
 | Netherlands - Amsterdam | 822 K |-|-|-|-|-|-|-|
 | Netherlands - Delft | 101 K |-|-|-|-|-|-|-|
-| Netherlands - Utrecht |-|-|-|-|-|-|-|-|
+| Netherlands - Utrecht | 360 K |-|-|-|-|-|-|-|
 | Netherlands - Rotterdam |-|-|-|-|-|-|-|-|
 
 Note: To find the source of the information written inside each box, just click on it.
