@@ -85,7 +85,7 @@
 |-|-|-|-|-|-|-|-|-|
 | Germany - Munich | 1.472 M |-|-|-|-|-|-|-|
 | Germany - Berlin | 3.645 M |-|-|-|-|-|-|-|
-| Germany - Frankfurt | 753 K|-|-|-|-|-|-|-|
+| Germany - Frankfurt | 753 K |-|-|-|-|-|-|-|
 | Germany - Dusseldorf |-|-|-|-|-|-|-|-|
 | Germany - Hamburg |-|-|-|-|-|-|-|-|
 | Germany - Stuttgart |-|-|-|-|-|-|-|-|
