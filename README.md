@@ -91,7 +91,7 @@
 | Germany - Stuttgart | 634 K |-|-|-|-|-|-|-|
 | England - London | 8.982 M |-|-|-|-|-|-|-|
 | England - Manchester | 553 K |-|-|-|-|-|-|-|
-| England - Oxford |-|-|-|-|-|-|-|-|
+| England - Oxford | 152 K |-|-|-|-|-|-|-|
 | France - Paris |-|-|-|-|-|-|-|-|
 | Canada - Toronto |-|-|-|-|-|-|-|-|
 | Canada - Vancouver |-|-|-|-|-|-|-|-|
