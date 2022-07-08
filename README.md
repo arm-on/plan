@@ -110,7 +110,7 @@
 | Netherlands - Delft | 101 K |-|-|-|-|-|-|-|-|
 | Netherlands - Utrecht | 360 K |-|-|-|-|-|-|-|-|
 | Netherlands - Rotterdam | 624 K |-|-|-|-|-|-|-|-|
-| South Korea - Seoul | ? |-|-|-|-|-|-|-|-|
+| South Korea - Seoul | 9.776 M |-|-|-|-|-|-|-|-|
 
 
 Note: To find the source of the information written inside each box, just click on it.
