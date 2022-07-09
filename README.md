@@ -81,36 +81,36 @@
 [TOC](#table-of-contents)
 
 # Migration Comparison
-| Country/Region/City | Population | Area/Population Ratio | Weather | Flight | Permanent Residence | Passport | Enter with family | GDP Per Capita | Language 
-|-|-|-|-|-|-|-|-|-|-|
-| Germany - Munich | 1.472 M | 0.0002 km2/person |-|-|-|-|-|-|-|
-| Germany - Berlin | 3.645 M |-|-|-|-|-|-|-|-|
-| Germany - Frankfurt | 753 K |-|-|-|-|-|-|-|-|
-| Germany - Dusseldorf | 619 K |-|-|-|-|-|-|-|-|
-| Germany - Hamburg | 1.841 M |-|-|-|-|-|-|-|-|
-| Germany - Stuttgart | 634 K |-|-|-|-|-|-|-|-|
-| England - London | 8.982 M |-|-|-|-|-|-|-|-|
-| England - Manchester | 553 K |-|-|-|-|-|-|-|-|
-| England - Oxford | 152 K |-|-|-|-|-|-|-|-|
-| France - Paris | 2.161 M |-|-|-|-|-|-|-|-|
-| Canada - Toronto | 2.93 M |-|-|-|-|-|-|-|-|
-| Canada - Vancouver | 675 K |-|-|-|-|-|-|-|-|
-| Canada - Ottawa | 995 K |-|-|-|-|-|-|-|-|
-| Canada - Montreal | 1.78 M |-|-|-|-|-|-|-|-|
-| Switzerland - Geneva | 199 K |-|-|-|-|-|-|-|-|
-| Switzerland - Basel | 171 K |-|-|-|-|-|-|-|-|
-| Switzerland - Lugano | 64 K |-|-|-|-|-|-|-|-|
-| Switzerland - Zurich | 403 K |-|-|-|-|-|-|-|-|
-| Switzerland - Lausanne | 138 K |-|-|-|-|-|-|-|-|
-| Belgium - Brussels | 2.06 M |-|-|-|-|-|-|-|-|
-| Belgium - Ghent | 262 K |-|-|-|-|-|-|-|-|
-| Belgium - Antwerp | 507 K |-|-|-|-|-|-|-|-|
-| Austria - Vienna | 1.897 M |-|-|-|-|-|-|-|-|
-| Netherlands - Amsterdam | 822 K |-|-|-|-|-|-|-|-|
-| Netherlands - Delft | 101 K |-|-|-|-|-|-|-|-|
-| Netherlands - Utrecht | 360 K |-|-|-|-|-|-|-|-|
-| Netherlands - Rotterdam | 624 K |-|-|-|-|-|-|-|-|
-| South Korea - Seoul | 9.776 M |-|-|-|-|-|-|-|-|
+| Country/Region/City | Population | Immigrants Population | Area/Population Ratio | Weather | Flight | Permanent Residence | Passport | Enter with family | GDP Per Capita | Language |
+|-|-|-|-|-|-|-|-|-|-|-|
+| Germany - Munich | 1.472 M |-|0.0002 km2/person|-|-|-|-|-|-|-|
+| Germany - Berlin | 3.645 M |-|-|-|-|-|-|-|-|-|
+| Germany - Frankfurt | 753 K |-|-|-|-|-|-|-|-|-|
+| Germany - Dusseldorf | 619 K |-|-|-|-|-|-|-|-|-|
+| Germany - Hamburg | 1.841 M |-|-|-|-|-|-|-|-|-|
+| Germany - Stuttgart | 634 K |-|-|-|-|-|-|-|-|-|
+| England - London | 8.982 M |-|-|-|-|-|-|-|-|-|
+| England - Manchester | 553 K |-|-|-|-|-|-|-|-|-|
+| England - Oxford | 152 K |-|-|-|-|-|-|-|-|-|
+| France - Paris | 2.161 M |-|-|-|-|-|-|-|-|-|
+| Canada - Toronto | 2.93 M |-|-|-|-|-|-|-|-|-|
+| Canada - Vancouver | 675 K |-|-|-|-|-|-|-|-|-|
+| Canada - Ottawa | 995 K |-|-|-|-|-|-|-|-|-|
+| Canada - Montreal | 1.78 M |-|-|-|-|-|-|-|-|-|
+| Switzerland - Geneva | 199 K |-|-|-|-|-|-|-|-|-|
+| Switzerland - Basel | 171 K |-|-|-|-|-|-|-|-|-|
+| Switzerland - Lugano | 64 K |-|-|-|-|-|-|-|-|-|
+| Switzerland - Zurich | 403 K |-|-|-|-|-|-|-|-|-|
+| Switzerland - Lausanne | 138 K |-|-|-|-|-|-|-|-|-|
+| Belgium - Brussels | 2.06 M |-|-|-|-|-|-|-|-|-|
+| Belgium - Ghent | 262 K |-|-|-|-|-|-|-|-|-|
+| Belgium - Antwerp | 507 K |-|-|-|-|-|-|-|-|-|
+| Austria - Vienna | 1.897 M |-|-|-|-|-|-|-|-|-|
+| Netherlands - Amsterdam | 822 K |-|-|-|-|-|-|-|-|-|
+| Netherlands - Delft | 101 K |-|-|-|-|-|-|-|-|-|
+| Netherlands - Utrecht | 360 K |-|-|-|-|-|-|-|-|-|
+| Netherlands - Rotterdam | 624 K |-|-|-|-|-|-|-|-|-|
+| South Korea - Seoul | 9.776 M |-|-|-|-|-|-|-|-|-|
 
 
 Note: To find the source of the information written inside each box, just click on it.
