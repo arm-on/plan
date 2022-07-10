@@ -90,7 +90,7 @@
 | Germany - Hamburg | 1.841 M | 631 K |-|-|-|-|-|-|-|-|
 | Germany - Stuttgart | 634 K | 253 K |-|-|-|-|-|-|-|-|
 | England - London | 8.982 M | 3.323 M |-|-|-|-|-|-|-|-|
-| England - Manchester | 2.8 M |-|-|-|-|-|-|-|-|-|
+| England - Manchester | 2.8 M | 700 K |-|-|-|-|-|-|-|-|
 | England - Oxford | 152 K |-|-|-|-|-|-|-|-|-|
 | France - Paris | 2.161 M |-|-|-|-|-|-|-|-|-|
 | Canada - Toronto | 2.93 M |-|-|-|-|-|-|-|-|-|
