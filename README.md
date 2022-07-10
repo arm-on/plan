@@ -87,7 +87,7 @@
 | Germany - Berlin | 3.645 M | 742 K |-|-|-|-|-|-|-|-|
 | Germany - Frankfurt | 753 K | 385.5 K |-|-|-|-|-|-|-|-|
 | Germany - Dusseldorf | 619 K | 100 K |-|-|-|-|-|-|-|-|
-| Germany - Hamburg | 1.841 M |-|-|-|-|-|-|-|-|-|
+| Germany - Hamburg | 1.841 M | 631 K |-|-|-|-|-|-|-|-|
 | Germany - Stuttgart | 634 K |-|-|-|-|-|-|-|-|-|
 | England - London | 8.982 M |-|-|-|-|-|-|-|-|-|
 | England - Manchester | 553 K |-|-|-|-|-|-|-|-|-|
