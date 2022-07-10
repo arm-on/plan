@@ -85,7 +85,7 @@
 |-|-|-|-|-|-|-|-|-|-|-|
 | Germany - Munich | 1.472 M | 530 K |0.0002 km2/person|-|-|-|-|-|-|-|
 | Germany - Berlin | 3.645 M | 742 K |-|-|-|-|-|-|-|-|
-| Germany - Frankfurt | 753 K |-|-|-|-|-|-|-|-|-|
+| Germany - Frankfurt | 753 K | 385.5 K |-|-|-|-|-|-|-|-|
 | Germany - Dusseldorf | 619 K |-|-|-|-|-|-|-|-|-|
 | Germany - Hamburg | 1.841 M |-|-|-|-|-|-|-|-|-|
 | Germany - Stuttgart | 634 K |-|-|-|-|-|-|-|-|-|
