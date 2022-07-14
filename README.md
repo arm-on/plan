@@ -92,7 +92,7 @@
 | England - London | 8.982 M | 3.323 M |-|-|-|-|-|-|-|-|
 | England - Manchester | 2.8 M | 700 K |-|-|-|-|-|-|-|-|
 | England - Oxford | 152 K | 48 K |-|-|-|-|-|-|-|-|
-| France - Paris | 2.161 M |-|-|-|-|-|-|-|-|-|
+| France - Paris | 2.161 M | 432 K |-|-|-|-|-|-|-|-|
 | Canada - Toronto | 2.93 M |-|-|-|-|-|-|-|-|-|
 | Canada - Vancouver | 675 K |-|-|-|-|-|-|-|-|-|
 | Canada - Ottawa | 995 K |-|-|-|-|-|-|-|-|-|
