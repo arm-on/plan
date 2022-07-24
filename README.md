@@ -8,6 +8,7 @@
   - [If I have too much time](#if-i-have-too-much-time)
 - [Rules](#rules)
 - [Migration Comparison](#migration-comparison)
+- [Paper Submission Deadlines](#paper-submission-deadlines)
 # To be learned
 ## Academic Courses
 
@@ -115,5 +116,12 @@
 
 Note: To find the source of the information written inside each box, just click on it.
 
+
+[TOC](#table-of-contents)
+
+# Paper Submission Deadlines
+
+1. https://aideadlin.es/
+2. https://conferenceindex.org/conferences/natural-language-processing-nlp
 
 [TOC](#table-of-contents)
