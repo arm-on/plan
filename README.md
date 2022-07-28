@@ -99,7 +99,7 @@
 | Canada - Ottawa | 995 K | 216 K |-|-|-|-|-|-|-|-|
 | Canada - Montreal | 1.78 M | 570 K |-|-|-|-|-|-|-|-|
 | Switzerland - Geneva | 368 K | 224 K |-|-|-|-|-|-|-|-|
-| Switzerland - Basel | 171 K |-|-|-|-|-|-|-|-|-|
+| Switzerland - Basel | 201 K | 74 K |-|-|-|-|-|-|-|-|
 | Switzerland - Lugano | 64 K |-|-|-|-|-|-|-|-|-|
 | Switzerland - Zurich | 403 K |-|-|-|-|-|-|-|-|-|
 | Switzerland - Lausanne | 138 K |-|-|-|-|-|-|-|-|-|
