@@ -10,6 +10,9 @@ Items:
 - ANTIDOTE: Understanding and Defending against Poisoning of Anomaly Detectors
 - Stronger Data Poisoning Attacks Break Data Sanitization Defenses
 - SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems
+- Accuracy on the line: on the strong correlation between out-of-distribution and in-distribution generalization
+- Robust fine-tuning of zero-shot models
+- Fine-tuning can distort pretrained features and underperform out-of-distribution
 
 People:
 - [Aditi Raghunathan](https://scholar.google.com/citations?hl=en&user=Ch9iRwQAAAAJ&view_op=list_works&sortby=pubdate)
