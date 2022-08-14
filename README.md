@@ -1,3 +1,8 @@
+# Rules
+
+1. Trust your professor
+2. Accept that while working in a group, your achievement is not gonna be maximized since the problem also has other constraints (such as not hurting anyone's feelings).
+
 # Reading
 
 Goals:
