@@ -2,7 +2,7 @@
 
 1. Trust your professor
 2. Accept that while working in a group, your achievement is not gonna be maximized since the problem also has other constraints (such as not hurting anyone's feelings).
-
+3. Avoid doing / not doing something that makes you feel like a loser
 # Reading
 
 Goals:
