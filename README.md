@@ -5,11 +5,11 @@
 3. Avoid doing / not doing something that makes you feel like a loser
 # Reading
 
-Goals:
+# Goals:
 
 - Detect the Pros. and Cons.
 
-Items:
+# Items:
 
 - PhD Thesis | ADVERSARIALLY ROBUST MACHINE LEARNING WITH GUARANTEES
 - ANTIDOTE: Understanding and Defending against Poisoning of Anomaly Detectors
@@ -19,8 +19,12 @@ Items:
 - Robust fine-tuning of zero-shot models
 - Fine-tuning can distort pretrained features and underperform out-of-distribution
 
-People:
+# People:
 - [Aditi Raghunathan](https://scholar.google.com/citations?hl=en&user=Ch9iRwQAAAAJ&view_op=list_works&sortby=pubdate)
 - [Percy Liang](https://scholar.google.com/citations?hl=en&user=pouyVyUAAAAJ&view_op=list_works&sortby=pubdate)
 
 Also, there's a [course](https://sites.google.com/view/evalmodel) on this!
+
+# Nice Ideas (for the next days):
+- Make a playlist of songs:
+  - Simge (Ben Bazen)
