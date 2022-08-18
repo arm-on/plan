@@ -22,3 +22,5 @@ Items:
 People:
 - [Aditi Raghunathan](https://scholar.google.com/citations?hl=en&user=Ch9iRwQAAAAJ&view_op=list_works&sortby=pubdate)
 - [Percy Liang](https://scholar.google.com/citations?hl=en&user=pouyVyUAAAAJ&view_op=list_works&sortby=pubdate)
+
+Also, there's a [course](https://sites.google.com/view/evalmodel) on this!
