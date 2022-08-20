@@ -1,3 +1,4 @@
+Today is August 20, 2022
 # Rules
 
 1. Trust your professor
