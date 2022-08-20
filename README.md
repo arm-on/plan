@@ -28,3 +28,6 @@ Also, there's a [course](https://sites.google.com/view/evalmodel) on this!
 # Nice Ideas (for the next days):
 - Make a playlist of songs:
   - Simge (Ben Bazen)
+
+# Notes
+- Word2Vec -> Seq2Seq -> Attention
