@@ -1,4 +1,4 @@
-Today is August 20, 2022
+Today is September 25, 2022
 # Rules
 
 Note: Something is wrong!
