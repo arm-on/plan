@@ -1,4 +1,4 @@
-Today is September 25, 2022
+Today is September 26, 2022
 # Rules
 
 Note: Something is wrong!
@@ -14,13 +14,7 @@ Note: Something is wrong!
 
 # Items:
 
-- PhD Thesis | ADVERSARIALLY ROBUST MACHINE LEARNING WITH GUARANTEES
-- ANTIDOTE: Understanding and Defending against Poisoning of Anomaly Detectors
-- Stronger Data Poisoning Attacks Break Data Sanitization Defenses
-- SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems
-- Accuracy on the line: on the strong correlation between out-of-distribution and in-distribution generalization
-- Robust fine-tuning of zero-shot models
-- Fine-tuning can distort pretrained features and underperform out-of-distribution
+- 
 
 # People:
 - [Aditi Raghunathan](https://scholar.google.com/citations?hl=en&user=Ch9iRwQAAAAJ&view_op=list_works&sortby=pubdate)
@@ -33,4 +27,4 @@ Also, there's a [course](https://sites.google.com/view/evalmodel) on this!
   - Simge (Ben Bazen)
 
 # Notes
-- Word2Vec -> Seq2Seq -> Attention
+- 
